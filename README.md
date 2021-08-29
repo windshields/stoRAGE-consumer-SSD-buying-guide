@@ -88,7 +88,6 @@ If you have more questions or want to contribute to gamezoid, our discord server
   | Patriot Viper VPN100                      | Phison E12                             | -------------------------------- |
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
   | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
-  | Addlink S70                               | Phison E12                             | -------------------------------- |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
   | Crucial P5                                | Micron in house                        | EOL                              |
@@ -106,6 +105,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | Samsung 970 Evo Plus                      | Samsung phoenix (POSSIBLE SWITCH TO ELPIS)| -------------------------------- |
   | Kingston KC2500                           | SM2262EN                               | self encryption support          |
   | WD black SN750                            | WD in house                            | -------------------------------- |
+  | Addlink S70                               | Phison E12                             | -------------------------------- |
   | Inland Performance                        | Phison E16                             | -------------------------------- |  
   | Sabrent Rocket 4.0                        | Phison E16                             | -------------------------------- |  
   | Corsair MP600                             | Phison E16                             | -------------------------------- |  
