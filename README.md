@@ -1,8 +1,5 @@
 
 # Gamezoid-Consumer-SSD-Buying-Guide/Tier list
-
-The following guide is not primarily writen by me; however, I thought it would be great to be able to disseminated online since Gamezoid and I make regular SSD suggestions:
-
 `GAMEZOID HERE`
 
 `ESTIMATED "SHOULD BE" PRICES ARE IN USD, ->EXTRAPOLATE<- FOR YOUR OWN CURRENCY AND FOLLOW INSTRUCTIONS BELOW guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THAT FITS YOUR USE CASE, DRIVES ARE IN NO PARTICULAR ORDER`
