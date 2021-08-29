@@ -18,7 +18,9 @@ https://www.techpowerup.com/review/?category=SSD
 
 Here is a list which should show the cheapest available in each category, remember to select correct region, recommended to cross reference with the rest of the list since these links may or may not be maintained. (Thank you to SLOWaf)
 500GB: https://pcpartpicker.com/user/SLOWaf/saved/WG8cHx
+
 1TB: https://pcpartpicker.com/user/SLOWaf/saved/b6KDZL 
+
 2TB: https://pcpartpicker.com/user/SLOWaf/saved/VvVVWZ
 
 If you have more questions or want to contribute to gamezoid, our discord server is here https://discord.gg/CvKjxyGaph
