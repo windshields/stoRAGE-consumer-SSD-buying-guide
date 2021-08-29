@@ -12,11 +12,15 @@ The following guide is not primarily writen by me; however, I thought it would b
 `WITH HIGHER END DRIVES AND MORE ELABORATE USE CASES, IT IS ADVISEABLE TO LOOK MORE DEEPLY AND BEYOND THIS GUIDE TO WEIGH WHICH 
 PERFORMANCE METRICS MATTER FOR YOUR USE AS IT IS ONLY DESIGNED FOR BASIC REFERENCE AND SOME DRIVES ARE CATEGORIZED HIGHER IF THEY FIT A NICHE
 ,ATTACHED ARE REPUTEABLE SSD REVIEW SOURCES`
+
 https://www.tomshardware.com/author/sean-webster
+
 https://www.storagereview.com/
+
 https://www.techpowerup.com/review/?category=SSD
 
 Here is a list which should show the cheapest available in each category, remember to select correct region, recommended to cross reference with the rest of the list since these links may or may not be maintained. (Thank you to SLOWaf)
+
 500GB: https://pcpartpicker.com/user/SLOWaf/saved/WG8cHx
 
 1TB: https://pcpartpicker.com/user/SLOWaf/saved/b6KDZL 
