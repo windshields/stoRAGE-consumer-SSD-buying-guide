@@ -107,7 +107,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | -------------------------------- |    
   | Samsung 970 Evo Plus                      | Samsung phoenix (POSSIBLE SWITCH TO ELPIS)| -------------------------------- |
   | Kingston KC2500                           | SM2262EN                               | self encryption support          |
-  | WD black SN750                            | WD in house                            | weak in mixed random IO          |
+  | WD black SN750                            | WD in house                            | -------------------------------- |
   | Inland Performance                        | Phison E16                             | -------------------------------- |  
   | Sabrent Rocket 4.0                        | Phison E16                             | -------------------------------- |  
   | Corsair MP600                             | Phison E16                             | -------------------------------- |  
