@@ -1,5 +1,4 @@
-# Gamezoid-SSD-buying-guide
-Buying guide/Tier list for SSD's under the gamezoid brand.
+
 # Gamezoid-Consumer-SSD-Buying-Guide/Tier list
 
 The following guide is not primarily writen by me; however, I thought it would be great to be able to disseminated online since Gamezoid and I make regular SSD suggestions:
