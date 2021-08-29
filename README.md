@@ -54,7 +54,7 @@ If you have more questions or want to contribute to gamezoid, our discord server
   | Crucial MX500                             | SM2258                                 | -------------------------------- |
   | Team L5 Lite 3D                           | SM2258                                 | -------------------------------- |
   | Team T-Force Vulcan                       | SM2258                                 | -------------------------------- |
-  | Adata SU800 Ultimate                      | SM2258                                 | -------------------------------- |
+  | ADATA SU800 Ultimate                      | SM2258                                 | -------------------------------- |
   | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
   | Seagate Barracuda/Firecuda 120            | Phison S12                             | -------------------------------- |
   | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE     |
@@ -113,6 +113,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
 
  | Name                                      | Controller                             | Notes                            |
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
+  ADATA/XPG Gammix S70                       | Innogrit Rainier IG5236                | -------------------------------- | 
  | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND                   |
  | WD Black SN850                            | WD in house                            | -------------------------------- |  
  | Sabrent Rocket 4 Plus                     | Phison E18                             | -------------------------------- |  
