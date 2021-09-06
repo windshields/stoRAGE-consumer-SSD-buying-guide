@@ -35,6 +35,7 @@ If you have more questions or want to contribute to gamezoid, our discord server
   | WD Blue SN550                             | WD in house                            | DRAMLESS+HMB+EXTENDED SRAM, 1TB SUSTAINED SEQUENTIAL SLOWER THAN REVIEWS|
   | WD Blue SN520                             | WD in house                            | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | WD Blue SN500                             | WD in house                            | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
+  | Acer FA100                                | Innogrit IG5216                        | DRAMLESS+HMB                     |
   | Kingston A2000                            | SM2263                                 | faster after firmware update     |
   | Crucial P1                                | SM2263                                 | QLC NAND                         |
   | HP EX900 pro                              | SM2263                                 | -------------------------------- |
