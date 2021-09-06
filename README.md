@@ -104,7 +104,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | -------------------------------- | 
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | -------------------------------- |    
-  | Samsung 970 Evo Plus                      | Samsung phoenix (POSSIBLE SWITCH TO ELPIS)| -------------------------------- |
+  | Samsung 970 Evo Plus                      | Samsung Elpis                          | Worse sustained sequential write after elpis switch |
   | Kingston KC2500                           | SM2262EN                               | self encryption support          |
   | WD black SN750                            | WD in house                            | -------------------------------- |
   | Addlink S70                               | Phison E12                             | -------------------------------- |
