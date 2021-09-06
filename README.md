@@ -76,11 +76,12 @@ If you have more questions or want to contribute to gamezoid, our discord server
   | ADATA SX8200 PRO                          | SM2262                                 | SCHRODINGERS NAND -- INACURRATE BENCHMARKS |
   | ADATA/XPG Gammix S50 lite                 | SM2267                                 | -------------------------------- | 
   | Intel 760P                                | SM2262                                 | EOL                              |
-  | Silicon Power P34A80                      | SM2262                                 | weird chinese nand flash         |
+  | Silicon Power P34A80                      | SM2262                                 | -------------------------------- |
   | HP EX920                                  | SM2262                                 | EOL                              |
   | Kingston KC2000                           | SM2262EN                               | EOL                              |
-  | Mushkin Pilot-E                           | SM2262EN                               | self encryption support          |
+  | Mushkin Pilot-E                           | SM2262EN                               | self encryption support??        |
   | Transcend 220s                            | SM2262EN                               | -------------------------------- |
+  | Silicon Power XD80                        | Phison E12                             | -------------------------------- |
   | Corsair MP510                             | Phison E12                             | -------------------------------- |
   | Seagate Barracuda 510                     | Phison E12                             | -------------------------------- |
   | Seagate Firecuda 510                      | Phison E12                             | -------------------------------- |
@@ -121,7 +122,9 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   ADATA/XPG Gammix S70                       | Innogrit Rainier IG5236                | -------------------------------- | 
  | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND                   |
- | WD Black SN850                            | WD in house                            | -------------------------------- |  
+ | WD Black SN850                            | WD in house                            | -------------------------------- |
+ | Mushkin Gamma                             | Phison E18                             | -------------------------------- | 
+ | MSI Spatium M480                          | Phison E18                             | -------------------------------- |  
  | Sabrent Rocket 4 Plus                     | Phison E18                             | -------------------------------- |  
  | Corsair MP600 Pro                         | Phison E18                             | -------------------------------- |  
  | Inland Performance Plus                   | Phison E18                             | -------------------------------- |  
