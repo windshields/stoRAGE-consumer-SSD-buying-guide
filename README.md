@@ -123,6 +123,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   ADATA/XPG Gammix S70                       | Innogrit Rainier IG5236                | -------------------------------- | 
  | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND                   |
  | WD Black SN850                            | WD in house                            | -------------------------------- |
+ | Seagate FireCuda 530                      | Phison E18                             | -------------------------------- | 
  | Mushkin Gamma                             | Phison E18                             | -------------------------------- | 
  | MSI Spatium M480                          | Phison E18                             | -------------------------------- |  
  | Sabrent Rocket 4 Plus                     | Phison E18                             | -------------------------------- |  
