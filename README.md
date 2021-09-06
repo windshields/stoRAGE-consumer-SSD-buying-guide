@@ -8,7 +8,7 @@
 `DRIVES ARE 3D TLC NAND+DEDICATED DRAM CACHE UNLESS OTHERWISE NOTED! EOL NOTE INDICATES DISCONTUNINUITY, LIKELY NOT PRICED COMPETIVELY`
 `WITH HIGHER END DRIVES AND MORE ELABORATE USE CASES, IT IS ADVISEABLE TO LOOK MORE DEEPLY AND BEYOND THIS GUIDE TO WEIGH WHICH 
 PERFORMANCE METRICS MATTER FOR YOUR USE AS IT IS ONLY DESIGNED FOR BASIC REFERENCE AND SOME DRIVES ARE CATEGORIZED HIGHER IF THEY FIT A NICHE
-,ATTACHED ARE REPUTEABLE SSD REVIEW SOURCES`
+,ATTACHED ARE REPUTEABLE SSD REVIEW SOURCES` 
 
 https://www.tomshardware.com/author/sean-webster
 
@@ -136,5 +136,6 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
 
 
 # GAMEZOID OUT
+METHODOLOGY DOCUMENT COMING SOON
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
