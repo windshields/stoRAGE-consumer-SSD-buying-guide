@@ -63,21 +63,21 @@ If you have more questions or want to contribute to gamezoid, our discord server
   | ADATA SU800 Ultimate                      | SM2258                                 | -------------------------------- |
   | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
   | Seagate Barracuda/Firecuda 120            | Phison S12                             | -------------------------------- |
-  | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE     |
+  | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE |
   | Samsung 860 Evo                           | Samsung MJX                            | -------------------------------- |
   | Samsung 870 Evo                           | Samsung MKX                            | -------------------------------- |
   | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
-  | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE HIGHER ENDURANCE    |
+  | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE HIGHER ENDURANCE |
 
 ## Middle end NVME drives EXPECTED PRICE:[$55-65 500GB][$105-$130 1TB][$200-$250 2TB]
 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | ADATA SX8200 PRO                          | SM2262                                 | SCHRODINGERS NAND -- INACURRATE BENCHMARKS |
+  | ADATA SX8200 PRO                          | SM2262                                 | SCHRODINGERS NAND -- INACURRATE PAST BENCHMARKS |
   | ADATA/XPG Gammix S50 lite                 | SM2267                                 | -------------------------------- | 
   | Intel 760P                                | SM2262                                 | EOL                              |
-  | Silicon Power P34A80                      | SM2262                                 | -------------------------------- |
+  | Silicon Power P34A80                      | SM2262                                 | SCHRODINGERS NAND -- INACURRATE PAST BENCHMARKS |
   | HP EX920                                  | SM2262                                 | EOL                              |
   | Kingston KC2000                           | SM2262EN                               | EOL                              |
   | Mushkin Pilot-E                           | SM2262EN                               | self encryption support??        |
