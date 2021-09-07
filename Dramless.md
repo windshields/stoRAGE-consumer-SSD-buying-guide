@@ -1,2 +1,2 @@
-# Gamezoid-SSD-buying-guide
-Gamezoid SSD buying guide.
+# Gamezoid-SSD-buying-guide: Dramless drives
+
