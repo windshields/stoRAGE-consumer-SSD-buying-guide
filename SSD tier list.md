@@ -16,7 +16,7 @@ https://www.storagereview.com/
 
 https://www.techpowerup.com/review/?category=SSD
 
-Here is a list which should show the cheapest available in each category, remember to select correct region, recommended to cross reference with the rest of the list since these links may or may not be maintained. (Thank you to SLOWaf)
+Here's a list that should show the cheapest available in each category; remember to select correct region. It's recommended to cross reference with the rest of the list since these links may or may not be maintained. (Thank you to SLOWaf)
 
 500GB: https://pcpartpicker.com/user/SLOWaf/saved/WG8cHx
 
@@ -24,11 +24,11 @@ Here is a list which should show the cheapest available in each category, rememb
 
 2TB: https://pcpartpicker.com/user/SLOWaf/saved/VvVVWZ
 
-If you have more questions or want to contribute to gamezoid, our discord server is here https://discord.gg/CvKjxyGaph
+If you have more questions or would like to contribute to gamezoid, our discord server is here: https://discord.gg/CvKjxyGaph
 
-## Budget NVME drives EXPECTED PRICE:[$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
+## Budget NVME drives EXPECTED PRICE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
-### For -->gamers<-- acceptable for budget workstation/productivity applications.
+### For **gamers** and budget workstation/productivity applications.
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
@@ -53,7 +53,7 @@ If you have more questions or want to contribute to gamezoid, our discord server
   
   
   
-### What If I Don't Have an M.2 Slot? 2.5" -- SATA/AHCI drives EXPECTED PRICE:[$45-55 500GB][$90-100 1TB][$180-200 2TB]
+### What If I Don't Have an M.2 Slot? 2.5" -- SATA/AHCI drives EXPECTED PRICE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | Crucial MX500                             | SM2258                                 | -------------------------------- |
@@ -68,7 +68,7 @@ If you have more questions or want to contribute to gamezoid, our discord server
   | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
   | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE HIGHER ENDURANCE |
 
-## Middle end NVME drives EXPECTED PRICE:[$55-65 500GB][$105-$130 1TB][$200-$250 2TB]
+## Middle end NVME drives EXPECTED PRICE: [$55-65 500GB] [$105-$130 1TB] [$200-$250 2TB]
 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
   | Name                                      | Controller                             | Notes                            |
@@ -93,9 +93,9 @@ If you have more questions or want to contribute to gamezoid, our discord server
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
   | Crucial P5                                | Micron in house                        | EOL                              |
  
-## High end NVME drives EXPECTED PRICE:[$130-160 1TB][$250-$300 2tb]
+## High end NVME drives EXPECTED PRICE: [$130-160 1TB] [$250-$300 2tb]
 
-### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications, or an excuse to spend money.	
+### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications. Also works as an excuse to spend money.
 
 NOTE: Phison E16 based drives are essentially burst performance optimized E12 drives with PCIE 4.0 support, should not be bought unless they undercut above drives in same category, they are not recommended for applications which depend on sustained workload for performance.
 
@@ -115,8 +115,8 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | ADATA/XPG Gammix S50                      | Phison E16                             | -------------------------------- | 
 
 
-## Ultra high end NVME drives [$160+ 1TB] [$300+ 2TB]
-### For *EXTREME* workstation/productivity, real HEDT/pro-sumer applications and burning money
+## Ultra high end NVME drives: [$160+ 1TB] [$300+ 2TB]
+### For *EXTREME* workstation/productivity, real HEDT/pro-sumer applications, and burning money
 
  | Name                                      | Controller                             | Notes                            |
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
