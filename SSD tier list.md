@@ -68,7 +68,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
   | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE HIGHER ENDURANCE |
 
-## Middle end NVME drives EXPECTED PRICE: [$55-65 500GB] [$105-$130 1TB] [$200-$250 2TB]
+## Mid-range NVME drives EXPECTED PRICE: [$55-65 500GB] [$105-$130 1TB] [$200-$250 2TB]
 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
   | Name                                      | Controller                             | Notes                            |
