@@ -1,2 +1,0 @@
-# Gamezoid-SSD-buying-guide: Dramless drives
-If you're in the market for buying an SSD, you might be confused by a lot of the terms that are thrown down online, one thing that seems to come up quite frequently with recommending SSDs to people is dramless SSD's. A dramless SSD is an SSD without a dram cache, this short write-up will aim to tell you what a dram cache does, and establish whether or not you should care about your SSD having one.
