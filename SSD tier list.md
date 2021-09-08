@@ -88,6 +88,8 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Team MP34                                 | Phison E12                             | -------------------------------- |
   | Patriot Viper VPN100                      | Phison E12                             | -------------------------------- |
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
+   | Addlink S70                               | Phison E12                             | -------------------------------- |
+
   | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
@@ -97,7 +99,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
 
 ### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications. Also works as an excuse to spend money.
 
-NOTE: Phison E16 based drives are essentially burst performance optimized E12 drives with PCIE 4.0 support, should not be bought unless they undercut above drives in same category, they are not recommended for applications which depend on sustained workload for performance.
+NOTE: Phison E16 based drives are essentially burst performance optimized E12 drives with PCIE 4.0 support, should not be bought unless they undercut above drives in same category, they are not recommended for workloads which depend on sustained sequential write performance.
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
@@ -106,7 +108,6 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | Samsung 970 Evo Plus                      | Samsung Elpis                          | Worse sustained sequential write after elpis switch |
   | Kingston KC2500                           | SM2262EN                               | self encryption support          |
   | WD black SN750                            | WD in house                            | -------------------------------- |
-  | Addlink S70                               | Phison E12                             | -------------------------------- |
   | Inland Performance                        | Phison E16                             | -------------------------------- |  
   | Sabrent Rocket 4.0                        | Phison E16                             | -------------------------------- |  
   | Corsair MP600                             | Phison E16                             | -------------------------------- |  
