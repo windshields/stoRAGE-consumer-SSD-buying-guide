@@ -130,7 +130,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | MSI Spatium M480                          | Phison E18                             | -------------------------------- |  
  | Sabrent Rocket 4 Plus                     | Phison E18                             | -------------------------------- |  
  | Corsair MP600 Pro                         | Phison E18                             | -------------------------------- |
- | Corsair MP600 Pro                         | Phison E18                             | MP600 Pro with micron 176L nand flash |  
+ | Corsair MP600 Pro XT                      | Phison E18                             | MP600 Pro with faster micron 176L nand flash |  
  | Inland Performance Plus                   | Phison E18                             | -------------------------------- |  
  | Samsung 980 Pro                           | Samsung Elpis                          | -------------------------------- |  
  | Intel Optane 905P                         | Intel in house                         | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
