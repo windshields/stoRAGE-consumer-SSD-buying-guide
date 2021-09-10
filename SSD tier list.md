@@ -122,7 +122,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | Name                                      | Controller                             | Notes                            |
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   ADATA/XPG Gammix S70                       | Innogrit Rainier IG5236                | -------------------------------- | 
- | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND                   |
+ | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
  | WD Black SN850                            | WD in house                            | -------------------------------- |
  | Seagate FireCuda 530                      | Phison E18                             | -------------------------------- | 
  | Mushkin Gamma                             | Phison E18                             | -------------------------------- | 
@@ -131,7 +131,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | Corsair MP600 Pro                         | Phison E18                             | -------------------------------- |  
  | Inland Performance Plus                   | Phison E18                             | -------------------------------- |  
  | Samsung 980 Pro                           | Samsung Elpis                          | -------------------------------- |  
- | Intel Optane 905P                         | Intel in house                         | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, EOL, SLOW BURST SEQUENTIAL |
+ | Intel Optane 905P                         | Intel in house                         | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
  | Intel Optane P5800x                       | Intel in house                         | U.2, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, ENTERPRISE| 
 
 
