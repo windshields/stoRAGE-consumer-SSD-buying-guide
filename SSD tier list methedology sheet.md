@@ -3,7 +3,7 @@ Disclaimer: Drives can be removed or moved based on underlying issues or miscell
 fitting category qualifications. SSD performance is extremely complicated and it is difficult to categorize using single number statistics, however this is preferrable
 to no transparency at all in categorization. We do retain the ability to move around this methedology, SSD testing is extremely complicated, and reviewer drive conditioning, 
 firmware changes, software, etc can massively impact the performance of an SSD on the bench. 
-Some drive reviews may show that they do not meet the requirements of their respective category,this is typically due to the drives performance increasing with firmware 
+Some drive reviews may show that they do not meet the requirements of their respective category,this is typically due to the drives performance increasing or decreasing with firmware 
 updates and fixes. 
 
 Performance unless otherwise noted is based off of the 1tb variant of the drive.
