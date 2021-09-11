@@ -80,6 +80,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Silicon Power P34A80                      | SM2262EN                               | SCHRODINGERS NAND -- INACURRATE PAST BENCHMARKS |
   | HP EX920                                  | SM2262                                 | EOL                              |
   | Kingston KC2000                           | SM2262EN                               | EOL                              |
+  | Team Group Cardea Z340                    | Phison E12S                            | ---------------------------------|
   | Mushkin Pilot-E                           | SM2262EN                               | Does include SED                 |
   | Transcend 220s                            | SM2262EN                               | -------------------------------- |
   | Silicon Power XD80                        | Phison E12                             | -------------------------------- |
