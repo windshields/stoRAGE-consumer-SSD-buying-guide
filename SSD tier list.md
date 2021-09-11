@@ -77,10 +77,10 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | ADATA SX8200 PRO                          | SM2262                                 | SCHRODINGERS NAND -- INACURRATE PAST BENCHMARKS |
   | ADATA/XPG Gammix S50 lite                 | SM2267                                 | -------------------------------- | 
   | Intel 760P                                | SM2262                                 | EOL                              |
-  | Silicon Power P34A80                      | SM2262                                 | SCHRODINGERS NAND -- INACURRATE PAST BENCHMARKS |
+  | Silicon Power P34A80                      | SM2262EN                               | SCHRODINGERS NAND -- INACURRATE PAST BENCHMARKS |
   | HP EX920                                  | SM2262                                 | EOL                              |
   | Kingston KC2000                           | SM2262EN                               | EOL                              |
-  | Mushkin Pilot-E                           | SM2262EN                               | self encryption support??        |
+  | Mushkin Pilot-E                           | SM2262EN                               | Does include SED                 |
   | Transcend 220s                            | SM2262EN                               | -------------------------------- |
   | Silicon Power XD80                        | Phison E12                             | -------------------------------- |
   | Corsair MP510                             | Phison E12                             | -------------------------------- |
@@ -89,7 +89,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Team MP34                                 | Phison E12                             | -------------------------------- |
   | Patriot Viper VPN100                      | Phison E12                             | -------------------------------- |
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
-   | Addlink S70                               | Phison E12                             | -------------------------------- |
+  | Addlink S70                               | Phison E12                             | -------------------------------- |
 
   | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
