@@ -24,7 +24,7 @@ Here's a list that should show the cheapest available in each category; remember
 
 If you have more questions or would like to contribute to gamezoid, our discord server is here: https://discord.gg/CvKjxyGaph
 
-## Budget NVME drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
+## Tier C: Budget NVME drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
 ### For **gamers** and budget workstation/productivity applications.
 
@@ -53,7 +53,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   
   
   
-### What If I Don't Have an M.2 Slot? 2.5" -- SATA/AHCI drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
+### Tier C: What If I Don't Have an M.2 Slot? 2.5" -- SATA/AHCI drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | Crucial MX500                             | SM2258                                 | -------------------------------- |
@@ -68,7 +68,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
   | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE HIGHER ENDURANCE |
 
-## Mid-range NVME drives OPTIMAL PRICE RANGE: [$55-65 500GB] [$105-$130 1TB] [$200-$250 2TB]
+## Tier B: Mid-range NVME drives OPTIMAL PRICE RANGE: [$55-65 500GB] [$105-$130 1TB] [$200-$250 2TB]
 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
   | Name                                      | Controller                             | Notes                            |
@@ -96,7 +96,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
   | Crucial P5                                | Micron in house                        | EOL                              |
  
-## High end NVME drives OPTIMAL PRICE RANGE: [$130-160 1TB] [$250-$300 2tb]
+## Tier A: High end NVME drives OPTIMAL PRICE RANGE: [$130-160 1TB] [$250-$300 2tb]
 
 ### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications. Also works as an excuse to spend money.
 
@@ -118,7 +118,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | Silicon Power US70                        | Phison E16                             | Could be ultra high-end tbh      |
 
 
-## Ultra high end NVME drives: [$160+ 1TB] [$300+ 2TB]
+## Tier S: Ultra high end NVME drives: [$160+ 1TB] [$300+ 2TB]
 ### For *EXTREME* workstation/productivity, real HEDT/pro-sumer applications, and/or burning money
 
  | Name                                      | Controller                             | Notes                            |
