@@ -80,8 +80,8 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Silicon Power P34A80                      | SM2262EN                               | -------------------------------- |
   | HP EX920                                  | SM2262                                 | EOL                              |
   | Kingston KC2000                           | SM2262EN                               | EOL                              |
-  | Team Group Cardea Z340                    | Phison E12S                            | ---------------------------------|
-  | Mushkin Pilot-E                           | SM2262EN                               | Does include SED                 |
+  | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
+  | Mushkin Pilot-E                           | SM2262EN                               | -------------------------------- |
   | Transcend 220s                            | SM2262EN                               | -------------------------------- |
   | Silicon Power XD80                        | Phison E12                             | -------------------------------- |
   | Corsair MP510                             | Phison E12                             | -------------------------------- |
@@ -107,7 +107,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | -------------------------------- | 
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | -------------------------------- |    
   | Samsung 970 Evo Plus                      | Samsung Elpis                          | Worse sustained sequential write after elpis switch |
-  | Kingston KC2500                           | SM2262EN                               | self encryption support          |
+  | Kingston KC2500                           | SM2262EN                               | -------------------------------- |
   | WD black SN750                            | WD in house                            | -------------------------------- |
   | Inland Performance                        | Phison E16                             | -------------------------------- |  
   | Sabrent Rocket 4.0                        | Phison E16                             | -------------------------------- |  
