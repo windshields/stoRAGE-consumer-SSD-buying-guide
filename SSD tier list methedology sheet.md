@@ -47,7 +47,7 @@ Minimum sustained sequential write at 1MB block size QD32: 400MB/s
 
 Minimum peak sequential write - 128KB block size: 3000MB/S
 
-Minimum 50GB copy transfer rate (Diskbench): 650MB/s
+Minimum 50GB copy transfer rate (Diskbench): 600MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 3000MB/s
 
