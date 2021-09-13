@@ -91,7 +91,6 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Patriot Viper VPN100                      | Phison E12                             | -------------------------------- |
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
   | Addlink S70                               | Phison E12                             | -------------------------------- |
-
   | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
@@ -135,7 +134,8 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | Corsair MP600 Pro                         | Phison E18                             | -------------------------------- |
  | Corsair MP600 Pro XT                      | Phison E18                             | MP600 Pro with faster micron 176L nand flash |  
  | Inland Performance Plus                   | Phison E18                             | -------------------------------- |  
- | Samsung 980 Pro                           | Samsung Elpis                          | -------------------------------- |  
+ | Samsung 980 Pro                           | Samsung Elpis                          | -------------------------------- |
+ | Crucial P5 plus                           | Micron in house                        | -------------------------------- |
  | Intel Optane 905P                         | Intel in house                         | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
  | Intel Optane P5800x                       | Intel in house                         | U.2, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, ENTERPRISE| 
 
