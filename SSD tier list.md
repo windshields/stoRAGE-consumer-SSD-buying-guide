@@ -4,7 +4,8 @@
 
 `ESTIMATED "OPTIMAL PRICE RANGE" IS IN USD, ->EXTRAPOLATE<- FOR YOUR OWN CURRENCY AND FOLLOW INSTRUCTIONS. guide instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THAT FITS YOUR USE CASE, DRIVES ARE IN NO PARTICULAR ORDER`
 
-`DRIVES ARE 3D TLC NAND+DEDICATED DRAM CACHE UNLESS OTHERWISE NOTED! EOL NOTE INDICATES DISCONTUNINUITY, LIKELY NOT PRICED COMPETIVELY`
+`DRIVES ARE PCIE 3.0 3D TLC NAND+DEDICATED DRAM CACHE UNLESS OTHERWISE NOTED! EOL NOTE INDICATES DISCONTUNINUITY, LIKELY NOT PRICED COMPETIVELY`
+`If drive is marked with "PCIE 4.0" you need to be on a motherboard/cpu platform with PCIE 4.0 support to have all of the drives performance available.`
 `WITH HIGHER END DRIVES AND MORE ELABORATE USE CASES, IT IS ADVISEABLE TO LOOK MORE DEEPLY AND BEYOND THIS LIST TO WEIGH WHICH 
 PERFORMANCE METRICS MATTER FOR YOUR USE AS IT IS ONLY DESIGNED FOR BASIC REFERENCE AND SOME DRIVES ARE CATEGORIZED HIGHER IF THEY FIT A NICHE, ATTACHED ARE REPUTEABLE SSD REVIEW SOURCES` 
 
@@ -74,7 +75,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | ADATA SX8200 PRO                          | SM2262                                 | -------------------------------- |
-  | ADATA/XPG Gammix S50 lite                 | SM2267                                 | -------------------------------- | 
+  | ADATA/XPG Gammix S50 lite                 | SM2267                                 | PCIE 4.0                         |
   | Intel 760P                                | SM2262                                 | EOL                              |
   | Silicon Power P34A80                      | SM2262EN                               | -------------------------------- |
   | HP EX920                                  | SM2262                                 | EOL                              |
@@ -91,7 +92,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
   | Addlink S70                               | Phison E12                             | -------------------------------- |
   | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
-  | WD black SN750-SE                         | Phison E19T                            | DRAMLESS+HMB                     |
+  | WD black SN750-SE                         | Phison E19T                            | PCIE 4.0, DRAMLESS+HMB           |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
   | Crucial P5                                | Micron in house                        | EOL                              |
@@ -106,16 +107,16 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | -------------------------------- | 
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | -------------------------------- |    
-  | Samsung 970 Evo Plus                      | Samsung Elpis                          | Worse sustained sequential write after elpis switch |
+  | Samsung 970 Evo Plus                      | Samsung Elpis                          | -------------------------------- |
   | Kingston KC2500                           | SM2262EN                               | -------------------------------- |
   | WD black SN750                            | WD in house                            | -------------------------------- |
-  | Inland Performance                        | Phison E16                             | -------------------------------- |  
-  | Sabrent Rocket 4.0                        | Phison E16                             | -------------------------------- |  
-  | Corsair MP600                             | Phison E16                             | -------------------------------- |  
-  | Gigabyte Aorus Gen 4                      | Phison E16                             | -------------------------------- |  
-  | Seagate Firecuda 520                      | Phison E16                             | -------------------------------- |
-  | ADATA/XPG Gammix S50                      | Phison E16                             | -------------------------------- | 
-  | Silicon Power US70                        | Phison E16                             | -------------------------------- |
+  | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
+  | Sabrent Rocket 4.0                        | Phison E16                             | PCIE 4.0                         |  
+  | Corsair MP600                             | Phison E16                             | PCIE 4.0                         |
+  | Gigabyte Aorus Gen 4                      | Phison E16                             | PCIE 4.0                         | 
+  | Seagate Firecuda 520                      | Phison E16                             | PCIE 4.0                         |
+  | ADATA/XPG Gammix S50                      | Phison E16                             | PCIE 4.0                         |
+  | Silicon Power US70                        | Phison E16                             | PCIE 4.0                         |
 
 
 ## Tier S: Ultra high end NVME drives: [$160+ 1TB] [$300+ 2TB]
@@ -123,21 +124,21 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
 
  | Name                                      | Controller                             | Notes                            |
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  ADATA/XPG Gammix S70                       | Innogrit Rainier IG5236                | -------------------------------- | 
+  ADATA/XPG Gammix S70                       | Innogrit Rainier IG5236                | PCIE 4.0                         | 
  | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
- | Crucial P5 Plus                           | Crucial in house                       | -------------------------------- |
- | WD Black SN850                            | WD in house                            | -------------------------------- |
- | Seagate FireCuda 530                      | Phison E18                             | -------------------------------- | 
- | Mushkin Gamma                             | Phison E18                             | -------------------------------- | 
- | MSI Spatium M480                          | Phison E18                             | -------------------------------- |  
- | Sabrent Rocket 4 Plus                     | Phison E18                             | -------------------------------- |  
- | Corsair MP600 Pro                         | Phison E18                             | -------------------------------- |
+ | Crucial P5 Plus                           | Crucial in house                       | PCIE 4.0                         |
+ | WD Black SN850                            | WD in house                            | PCIE 4.0                         |
+ | Seagate FireCuda 530                      | Phison E18                             | PCIE 4.0                         | 
+ | Mushkin Gamma                             | Phison E18                             | PCIE 4.0                         |
+ | MSI Spatium M480                          | Phison E18                             | PCIE 4.0                         | 
+ | Sabrent Rocket 4 Plus                     | Phison E18                             | PCIE 4.0                         |  
+ | Corsair MP600 Pro                         | Phison E18                             | PCIE 4.0                         |
  | Corsair MP600 Pro XT                      | Phison E18                             | MP600 Pro with faster micron 176L nand flash |  
- | Inland Performance Plus                   | Phison E18                             | -------------------------------- |  
- | Samsung 980 Pro                           | Samsung Elpis                          | -------------------------------- |
- | Crucial P5 plus                           | Micron in house                        | -------------------------------- |
+ | Inland Performance Plus                   | Phison E18                             | PCIE 4.0                         | 
+ | Samsung 980 Pro                           | Samsung Elpis                          | PCIE 4.0                         |
+ | Crucial P5 plus                           | Micron in house                        | PCIE 4.0                         |
  | Intel Optane 905P                         | Intel in house                         | AIC, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
- | Intel Optane P5800x                       | Intel in house                         | U.2, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, ENTERPRISE| 
+ | Intel Optane P5800x                       | Intel in house                         | U.2, PCIE 4.0, 3DXPOINT, BIG PRICE TAG, BALLERS ONLY, ENTERPRISE, FASTEST SSD EVER MADE| 
 
 
 # GAMEZOID OUT
