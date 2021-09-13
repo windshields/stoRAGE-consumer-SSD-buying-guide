@@ -77,7 +77,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | ADATA SX8200 PRO                          | SM2262                                 | -------------------------------- |
   | ADATA/XPG Gammix S50 lite                 | SM2267                                 | PCIE 4.0                         |
   | Intel 760P                                | SM2262                                 | EOL                              |
-  | Silicon Power P34A80                      | SM2262EN                               | NOT TO BE CONFUSED WITH WORSE P32A80 |
+  | Silicon Power P34A80                      | SM2262EN                               | -------------------------------- |
   | HP EX920                                  | SM2262                                 | EOL                              |
   | Kingston KC2000                           | SM2262EN                               | EOL                              |
   | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
