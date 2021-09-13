@@ -74,10 +74,10 @@ If you have more questions or would like to contribute to gamezoid, our discord 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | ADATA SX8200 PRO                          | SM2262                                 | SCHRODINGERS NAND -- INACURRATE PAST BENCHMARKS |
+  | ADATA SX8200 PRO                          | SM2262                                 | -------------------------------- |
   | ADATA/XPG Gammix S50 lite                 | SM2267                                 | -------------------------------- | 
   | Intel 760P                                | SM2262                                 | EOL                              |
-  | Silicon Power P34A80                      | SM2262EN                               | SCHRODINGERS NAND -- INACURRATE PAST BENCHMARKS |
+  | Silicon Power P34A80                      | SM2262EN                               | -------------------------------- |
   | HP EX920                                  | SM2262                                 | EOL                              |
   | Kingston KC2000                           | SM2262EN                               | EOL                              |
   | Team Group Cardea Z340                    | Phison E12S                            | ---------------------------------|
