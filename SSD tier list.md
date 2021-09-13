@@ -49,6 +49,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
   | Inland Platinum                           | Phison E12S                            | QLC NAND                         |
   | Sabrent Rocket-Q                          | Phison E12S                            | QLC NAND                         |
+  | PNY CS2130                                | Phison E12S                            | QLC NAND                         |
   | Intel 670P                                | SM2265                                 | QLC NAND                         |
   
   
