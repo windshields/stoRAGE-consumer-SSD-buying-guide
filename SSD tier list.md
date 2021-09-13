@@ -31,7 +31,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | WD Blue SN550                             | WD in house                            | DRAMLESS+HMB+EXTENDED SRAM, 1TB SUSTAINED SEQUENTIAL SLOWER THAN REVIEWS|
+  | WD Blue SN550                             | WD in house                            | DRAMLESS+HMB+EXTENDED SRAM, POSSIBLE QLC VARIANT ??|
   | WD Blue SN520                             | WD in house                            | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | WD Blue SN500                             | WD in house                            | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | Acer FA100                                | Innogrit IG5216                        | DRAMLESS+HMB                     |
