@@ -115,6 +115,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | Gigabyte Aorus Gen 4                      | Phison E16                             | -------------------------------- |  
   | Seagate Firecuda 520                      | Phison E16                             | -------------------------------- |
   | ADATA/XPG Gammix S50                      | Phison E16                             | -------------------------------- | 
+  | Silicon Power US70                        | Phison E16                             | Could be ultra high-end tbh      |
 
 
 ## Ultra high end NVME drives: [$160+ 1TB] [$300+ 2TB]
