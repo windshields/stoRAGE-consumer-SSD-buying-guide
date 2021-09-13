@@ -119,7 +119,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
 
 
 ## Ultra high end NVME drives: [$160+ 1TB] [$300+ 2TB]
-### For *EXTREME* workstation/productivity, real HEDT/pro-sumer applications, and burning money
+### For *EXTREME* workstation/productivity, real HEDT/pro-sumer applications, and/or burning money
 
  | Name                                      | Controller                             | Notes                            |
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
