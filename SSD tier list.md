@@ -42,7 +42,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Mushkin Helix-L                           | SM2263XT                               | DRAMLESS+HMB                     |  
   | Silicon power P34A60                      | SM2263XT                               | DRAMLESS+HMB                     |
   | KLevv CRAS C710                           | SM2263XT                               | DRAMLESS+HMB                     |
-  | Kingston NV1                              | SM2263XT                               | DRAMLESS+HMB                     |
+  | Kingston NV1                              | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
   | Patriot P300                              | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
   | Team MP33                                 | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
   | Team Cardea Zero Z330                     | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
