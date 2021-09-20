@@ -96,6 +96,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | WD black SN750-SE                         | Phison E19T                            | PCIE 4.0, DRAMLESS+HMB           |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
+  | Adata XPG Spectrix S40G                   | Realtek RTS5762                        | -------------------------------- |
   | Crucial P5                                | Micron in house                        | EOL                              |
  
 ## Tier A: High end NVME drives OPTIMAL PRICE RANGE: [$130-160 1TB] [$250-$300 2tb]
