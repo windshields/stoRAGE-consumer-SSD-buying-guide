@@ -79,8 +79,8 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | ADATA/XPG Gammix S50 lite                 | SM2267                                 | PCIE 4.0                         |
   | Intel 760P                                | SM2262                                 | EOL                              |
   | Silicon Power P34A80                      | SM2262EN                               | -------------------------------- |
-  | HP EX920                                  | SM2262                                 | EOL                              |
-  | Kingston KC2000                           | SM2262EN                               | EOL                              |
+  | HP EX920                                  | SM2262                                 | -------------------------------- |
+  | Kingston KC2000                           | SM2262EN                               | -------------------------------- |
   | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
   | Mushkin Pilot-E                           | SM2262EN                               | -------------------------------- |
   | Transcend 220s                            | SM2262EN                               | -------------------------------- |
