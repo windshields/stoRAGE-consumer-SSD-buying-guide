@@ -1,4 +1,4 @@
-# Gamezoid-SSD-buying-guide: DRAMless SSDs
+# stoRAGE-SSD-buying-guide: DRAMless SSDs
 If you're in the market for buying an SSD, you might be confused by a lot of the terms that are thrown around online. One thing that seems to come up quite frequently with recommending SSD's to people is dramless SSD's. A dramless SSD is an SSD without a DRAM cache, this short write-up will aim to tell you what a dram cache does, and establish whether or not you should care about your SSD having one.
 
 What is a DRAM cache? On an SSD a DRAM cache is a piece of volatile memory soldered to its PCB, size-wise depending on the drive it could be a few hundred megabytes, or it could be up to 1 or 2 gigabytes. Volatile means that unlike the flash storage on an SSD, it can not store data while unpowered. A DRAM cache is made out of the same type of memory as well, your computers DRAM, it's designed for short term storage of data that needs to be accessed frequently, let's talk about that data and what it means for SSD performance.
@@ -11,6 +11,6 @@ Whether or not it really matters depends on the drive, without a dedicated DRAM 
 
 TL;DR: DRAMless NVME drives are better than SATA+DRAM drives and are a great budget choice for gamers, and are acceptable for mid-light productivity. Modern nand flash is robust enough to handle shifting metadata making longevity a non-concern. There is no significant difference in boot times, loading times, and no affect on FPS and/or frametimes. Do not be afraid to buy them just because you heard "DRAMless bad".
 
-I like to actively maintain my guides and tier lists, all of this is still a work in progress. I accept help from others (credit will be given), I want to make gamezoid a community effort that goes beyond just me. If you have any other questions or want to contribute our discord server is here https://discord.gg/wTA2T5QG, questions on any computer hardware topic are welcome.
+I like to actively maintain my guides and tier lists, all of this is still a work in progress. I accept help from others (credit will be given), I want to make stoRAGE a community effort that goes beyond just me. If you have any other questions or want to contribute our discord server is here https://discord.gg/wTA2T5QG, questions on any computer hardware topic are welcome.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
