@@ -16,7 +16,7 @@ Must meet budget drive requirements.
 
 Maximum random read latency (ATTO, Or iometer): 0.15 milliseconds. (Exception for sata)
 
-## Budget NVME drive requirements 
+## TIER C: Budget NVME drive requirements 
 
 Minimum sustained sequential write at 1MB block size QD32: 100MB/s (Disregarded if PSLC folding above & below)
 
@@ -29,7 +29,7 @@ Minimum peak sequential read (CDM, ATTO, Or IOMETER): 1500MB/s
 Minimum Random 4K read QD1: 40MB/S (9766 IOPS)
 
 
-## Mid-range NVME drive requirements
+## TIER B: Mid-range NVME drive requirements
 
 Minimum sustained sequential write at 1MB block size QD32: 300MB/s (Exceptions made for outlying drops) 
 
@@ -41,7 +41,7 @@ Minimum peak sequential read (CDM, ATTO, Or IOMETER): 2500MB/s
 
 Minimum Random 4K read QD1: 50MB/S (12207 IOPS)
 
-## High-end NVME drive requirements
+## TIER A: High-end NVME drive requirements
 
 Minimum sustained sequential write at 1MB block size QD32: 400MB/s
 
@@ -53,7 +53,7 @@ Minimum peak sequential read (CDM, ATTO, Or IOMETER): 3000MB/s
 
 Minimum Random 4K read QD1: 60MB/S (14648 IOPS)
 
-## Ultra High-End NVME drive requirements
+## TIER S: Ultra High-End NVME drive requirements
 [EXCEPTIONS MADE FOR 2-BIT MLC AND 3DXPOINT BASED DRIVES]
 
 Minimum sustained sequential write at 1MB block size QD32: 500MB/s
