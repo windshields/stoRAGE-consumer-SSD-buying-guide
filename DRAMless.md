@@ -11,6 +11,6 @@ Whether or not it really matters depends on the drive, without a dedicated DRAM 
 
 TL;DR: DRAMless NVME drives are better than SATA+DRAM drives and are a great budget choice for gamers, and are acceptable for mid-light productivity. Modern nand flash is robust enough to handle shifting metadata making longevity a non-concern. There is no significant difference in boot times, loading times, and no affect on FPS and/or frametimes. Do not be afraid to buy them just because you heard "DRAMless bad".
 
-I like to actively maintain my guides and tier lists, all of this is still a work in progress. I accept help from others (credit will be given), I want to make stoRAGE a community effort that goes beyond just me. If you have any other questions or want to contribute our discord server is here https://discord.gg/wTA2T5QG, questions on any computer hardware topic are welcome.
+If you have any other questions or want to contribute our discord server is here https://discord.gg/wTA2T5QG, questions on any computer hardware topic are welcome.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
