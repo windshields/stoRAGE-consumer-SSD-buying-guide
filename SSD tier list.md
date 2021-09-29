@@ -130,7 +130,6 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   ADATA/XPG Gammix S70                       | Innogrit Rainier IG5236                | PCIE 4.0                         | 
  | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
- | Crucial P5 Plus                           | Crucial in house                       | PCIE 4.0                         |
  | WD Black SN850                            | WD in house                            | PCIE 4.0                         |
  | Seagate FireCuda 530                      | Phison E18                             | PCIE 4.0                         | 
  | Mushkin Gamma                             | Phison E18                             | PCIE 4.0                         |
