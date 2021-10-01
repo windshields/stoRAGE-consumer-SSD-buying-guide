@@ -40,6 +40,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Acer FA100                                | Innogrit IG5216                        | DRAMLESS+HMB                     |
   | Kingston A2000                            | SM2263                                 | faster after firmware update     |
   | Crucial P1                                | SM2263                                 | QLC NAND, EOL                    |
+  | Intel 660P                                | SM2263                                 | QLC NAND                         |
   | HP EX900 pro                              | SM2263                                 | -------------------------------- |
   | HP EX900                                  | SM2263XT                               | DRAMLESS+HMB, EOL                |
   | Mushkin Helix-L                           | SM2263XT                               | DRAMLESS+HMB                     |  
