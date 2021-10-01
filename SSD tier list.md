@@ -38,34 +38,34 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | WD Blue SN520                             | WD in house                            | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | WD Blue SN500                             | WD in house                            | DRAMLESS+EXTENDED SRAM, MOSTLY OEM, EOL |
   | Acer FA100                                | Innogrit IG5216                        | DRAMLESS+HMB                     |
-  | Kingston A2000                            | SM2263                                 | faster after firmware update     |
-  | Crucial P1                                | SM2263                                 | QLC NAND, EOL                    |
-  | Intel 660P                                | SM2263                                 | QLC NAND                         |
-  | HP EX900 pro                              | SM2263                                 | -------------------------------- |
-  | HP EX900                                  | SM2263XT                               | DRAMLESS+HMB, EOL                |
-  | Mushkin Helix-L                           | SM2263XT                               | DRAMLESS+HMB                     |  
-  | Silicon power P34A60                      | SM2263XT                               | DRAMLESS+HMB                     |
-  | KLevv CRAS C710                           | SM2263XT                               | DRAMLESS+HMB                     |
-  | Kingston NV1                              | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
-  | Patriot P300                              | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
-  | Team MP33                                 | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
-  | Team Cardea Zero Z330                     | SM2263XT OR Phison E13T                | DRAMLESS+HMB                     |
+  | Kingston A2000                            | Silicon Motion SM2263                  | faster after firmware update     |
+  | Crucial P1                                | Silicon Motion SM2263                  | QLC NAND, EOL                    |
+  | Intel 660P                                | Silicon Motion SM2263                  | QLC NAND                         |
+  | HP EX900 pro                              | Silicon Motion SM2263                  | -------------------------------- |
+  | HP EX900                                  | Silicon Motion SM2263XT                | DRAMLESS+HMB, EOL                |
+  | Mushkin Helix-L                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |  
+  | Silicon power P34A60                      | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
+  | KLevv CRAS C710                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
+  | Kingston NV1                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
+  | Patriot P300                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
+  | Team MP33                                 | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
+  | Team Cardea Zero Z330                     | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB, EOL                |
   | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
   | Inland Platinum                           | Phison E12S                            | QLC NAND                         |
   | Sabrent Rocket-Q                          | Phison E12S                            | QLC NAND                         |
   | PNY CS2130                                | Phison E12S                            | QLC NAND                         |
-  | Intel 670P                                | SM2265                                 | QLC NAND                         |
+  | Intel 670P                                | Silicon Motion SM2265                  | QLC NAND                         |
   
   
   
 ### Tier C: What If I Don't Have an M.2 Slot? 2.5" -- SATA/AHCI drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | Crucial MX500                             | SM2258                                 | -------------------------------- |
-  | Team L5 Lite 3D                           | SM2258                                 | -------------------------------- |
-  | Team T-Force Vulcan                       | SM2258                                 | -------------------------------- |
-  | ADATA SU800 Ultimate                      | SM2258                                 | -------------------------------- |
+  | Crucial MX500                             | Silicon Motion SM2258                  | -------------------------------- |
+  | Team L5 Lite 3D                           | Silicon Motion SM2258                  | -------------------------------- |
+  | Team T-Force Vulcan                       | Silicon Motion SM2258                  | -------------------------------- |
+  | ADATA SU800 Ultimate                      | Silicon Motion SM2258                  | -------------------------------- |
   | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
   | Seagate Barracuda/Firecuda 120            | Phison S12                             | -------------------------------- |
   | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE |
@@ -79,15 +79,16 @@ If you have more questions or would like to contribute to gamezoid, our discord 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | ADATA SX8200 PRO                          | SM2262                                 | -------------------------------- |
-  | ADATA/XPG Gammix S50 lite                 | SM2267                                 | PCIE 4.0                         |
-  | Intel 760P                                | SM2262                                 | EOL                              |
-  | Silicon Power P34A80                      | SM2262EN                               | -------------------------------- |
-  | HP EX920                                  | SM2262                                 | -------------------------------- |
-  | Kingston KC2000                           | SM2262EN                               | -------------------------------- |
+  | ADATA/XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
+  | ADATA/XPG SX8100                          | Realtek RTS5762                        | -------------------------------- |
+  | ADATA/XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
+  | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
+  | Silicon Power P34A80                      | Silicon Motion SM2262EN                | -------------------------------- |
+  | HP EX920                                  | Silicon Motion SM2262                  | -------------------------------- |
+  | Kingston KC2000                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
-  | Mushkin Pilot-E                           | SM2262EN                               | -------------------------------- |
-  | Transcend 220s                            | SM2262EN                               | -------------------------------- |
+  | Mushkin Pilot-E                           | Silicon Motion SM2262EN                | -------------------------------- |
+  | Transcend 220s                            | Silicon Motion SM2262EN                | -------------------------------- |
   | Silicon Power XD80                        | Phison E12                             | -------------------------------- |
   | Corsair MP510                             | Phison E12                             | -------------------------------- |
   | Seagate Barracuda 510                     | Phison E12                             | -------------------------------- |
@@ -113,7 +114,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | -------------------------------- | 
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | -------------------------------- |    
   | Samsung 970 Evo Plus                      | Samsung Elpis                          | -------------------------------- |
-  | Kingston KC2500                           | SM2262EN                               | -------------------------------- |
+  | Kingston KC2500                           | Silicon Motion SM2262EN                | -------------------------------- |
   | WD black SN750                            | WD in house                            | -------------------------------- |
   | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
   | Sabrent Rocket 4.0                        | Phison E16                             | PCIE 4.0                         |  
