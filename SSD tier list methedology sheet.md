@@ -14,6 +14,8 @@ a representive of real world endurance.
 
 Must meet budget drive requirements.
 
+No exceptional problems which indicate high failure rate, or use of any controller with an exceptionally high failure rate.
+
 Maximum random read latency (ATTO, Or iometer): 0.15 milliseconds. (Exception for sata)
 
 ## TIER C: Budget NVME drive requirements 
