@@ -68,6 +68,9 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Team Group T-Force Delta RGB              | Silicon Motion SM2258                  | -------------------------------- |
   | ADATA SU800 Ultimate                      | Silicon Motion SM2258                  | -------------------------------- |
   | HP S700 Pro                               | Silicon Motion SM2258                  | -------------------------------- |
+  | KLEVV NEO N610                            | Silicon Motion SM2258                  | -------------------------------- |
+  | Lexar NS200                               | Silicon Motion SM2258                  | -------------------------------- |
+  | Transcend SSD230S                         | Silicon Motion SM2258                  | -------------------------------- |
   | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
   | Seagate Barracuda/Firecuda 120            | Phison S12                             | -------------------------------- |
   | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE |
