@@ -30,7 +30,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
 
 ## Tier C: Budget NVME drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
-### For **gamers** and budget workstation/productivity applications.
+### For general desktop use, **gamers**, and light workstation/productivity use.
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
