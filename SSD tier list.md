@@ -72,6 +72,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Lexar NS200                               | Silicon Motion SM2258                  | -------------------------------- |
   | Transcend SSD230S                         | Silicon Motion SM2258                  | -------------------------------- |
   | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
+  | PNY CS2311                                | Phison S12                             | -------------------------------- |
   | Seagate Barracuda/Firecuda 120            | Phison S12                             | -------------------------------- |
   | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE |
   | Samsung 860 Evo                           | Samsung MJX                            | -------------------------------- |
