@@ -65,6 +65,7 @@ If you have more questions or would like to contribute to gamezoid, our discord 
   | Crucial MX500                             | Silicon Motion SM2258                  | -------------------------------- |
   | Team L5 Lite 3D                           | Silicon Motion SM2258                  | -------------------------------- |
   | Team T-Force Vulcan                       | Silicon Motion SM2258                  | -------------------------------- |
+  | Team Group T-Force Delta RGB              | Silicon Motion SM2258                  | -------------------------------- |
   | ADATA SU800 Ultimate                      | Silicon Motion SM2258                  | -------------------------------- |
   | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
   | Seagate Barracuda/Firecuda 120            | Phison S12                             | -------------------------------- |
