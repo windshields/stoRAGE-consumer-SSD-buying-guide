@@ -18,7 +18,7 @@ https://www.techpowerup.com/review/?category=SSD
 
 https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit#gid=0
 
-Here's a list that should show the cheapest available in each category; remember to select correct region. It's recommended to cross reference with the rest of the list since these links may or may not be maintained. (Thank you to SLOWaf)
+Here are three pcpartpicker list that should show the cheapest available drive in each tier; remember to select correct region. It's recommended to cross reference with the rest of the list since these links may be out of date. (Thank you to SLOWaf)
 
 500GB: https://pcpartpicker.com/user/SLOWaf/saved/WG8cHx
 
