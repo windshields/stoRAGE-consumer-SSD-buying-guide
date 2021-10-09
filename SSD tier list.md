@@ -26,7 +26,6 @@ Here are three pcpartpicker list that should show the cheapest available drive i
 
 2TB: https://pcpartpicker.com/user/SLOWaf/saved/VvVVWZ
 
-If you have more questions or would like to contribute to gamezoid, our discord server is here: https://discord.gg/CvKjxyGaph
 
 ## Tier C: Budget NVME drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
 
@@ -157,5 +156,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
 METHODOLOGY DOCUMENT CAN BE FOUND HERE
 
 https://github.com/windshields/stoRAGE-consumer-SSD-buying-guide/blob/main/SSD%20tier%20list%20methedology%20sheet.md
+
+OUR DISCORD: https://discord.gg/CvKjxyGaph
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
