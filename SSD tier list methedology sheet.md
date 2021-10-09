@@ -33,7 +33,7 @@ Minimum Random 4K read QD1: 40MB/S (9766 IOPS)
 
 ## TIER B: Mid-range NVME drive requirements
 
-Minimum sustained sequential write at 1MB block size QD32: 300MB/s (Exceptions made for outlying drops) 
+Minimum sustained sequential write at 1MB block size QD32: 400MB/s (Exceptions made for outlying drops) 
 
 Minimum peak sequential write - 128KB block size: 2200MB/S
 
@@ -45,7 +45,7 @@ Minimum Random 4K read QD1: 50MB/S (12207 IOPS)
 
 ## TIER A: High-end NVME drive requirements
 
-Minimum sustained sequential write at 1MB block size QD32: 400MB/s
+Minimum sustained sequential write at 1MB block size QD32: 500MB/s
 
 Minimum peak sequential write - 128KB block size: 3000MB/S
 
