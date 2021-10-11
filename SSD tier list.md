@@ -106,7 +106,7 @@ Here are three pcpartpicker list that should show the cheapest available drive i
   | WD black SN750-SE                         | Phison E19T                            | PCIE 4.0, DRAMLESS+HMB           |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
-  | Crucial P5                                | Micron in house                        | EOL                              |
+  | Crucial P5                                | Micron in house                        | -------------------------------- |
  
 ## Tier A: High end NVME drives OPTIMAL PRICE RANGE: [$130-160 1TB] [$250-$300 2tb]
 
