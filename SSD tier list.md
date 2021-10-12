@@ -82,7 +82,7 @@ Here are three pcpartpicker list that should show the cheapest available drive i
 ## Tier B: Mid-range NVME drives OPTIMAL PRICE RANGE: [$55-65 500GB] [$105-$130 1TB] [$200-$250 2TB]
 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
-|TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S (No significant difference in performance)|
+| TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S (No significant difference in performance) |
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | ADATA/XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
@@ -113,7 +113,7 @@ Here are three pcpartpicker list that should show the cheapest available drive i
 
 ### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications. Also works as an excuse to spend money.
 
-|TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant performance advantage over PCIE 3.0 drives in the same tier.|
+| TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant performance advantage over PCIE 3.0 drives in the same tier. |
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | -------------------------------- | 
