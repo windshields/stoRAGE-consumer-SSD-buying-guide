@@ -119,6 +119,7 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | -------------------------------- | 
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | -------------------------------- |    
   | Samsung 970 Evo Plus                      | Samsung Elpis                          | -------------------------------- |
+  | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EOL              |
   | Kingston KC2500                           | Silicon Motion SM2262EN                | -------------------------------- |
   | WD black SN750                            | WD in house                            | -------------------------------- |
   | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
@@ -137,7 +138,6 @@ NOTE: Phison E16 based drives are essentially burst performance optimized E12 dr
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
  | ADATA/XPG Gammix S70                      | Innogrit Rainier IG5236                | PCIE 4.0                         |
  | Acer Predator GM7000                      | Innogrit Rainier IG5236                | PCIE 4.0                         | 
- | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
  | WD Black SN850                            | WD in house                            | PCIE 4.0                         |
  | Seagate FireCuda 530                      | Phison E18                             | PCIE 4.0                         | 
  | Mushkin Gamma                             | Phison E18                             | PCIE 4.0                         |
