@@ -112,7 +112,7 @@ Here are three pcpartpicker list that should show the cheapest available drive i
 
 ### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications. Also works as an excuse to spend money.
 
-NOTE: Phison E16 based drives are essentially burst performance optimized E12 drives with PCIE 4.0 support, should not be bought unless they undercut above drives in same category, they are not recommended for workloads which depend on sustained sequential write performance.
+NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant performance advantage over PCIE 3.0 drives in the same tier.
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
