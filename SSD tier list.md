@@ -93,6 +93,7 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | HP EX920                                  | Silicon Motion SM2262                  | -------------------------------- |
   | HP EX950                                  | Silicon Motion SM2262EN                | -------------------------------- |
   | Kingston KC2000                           | Silicon Motion SM2262EN                | -------------------------------- |
+  | Kingston KC2500                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
   | Mushkin Pilot-E                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Transcend 220s                            | Silicon Motion SM2262EN                | -------------------------------- |
@@ -121,7 +122,6 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | -------------------------------- |    
   | Samsung 970 Evo Plus                      | Samsung Elpis                          | -------------------------------- |
   | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EOL              |
-  | Kingston KC2500                           | Silicon Motion SM2262EN                | -------------------------------- |
   | WD black SN750                            | WD in house                            | -------------------------------- |
   | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
   | Sabrent Rocket 4.0                        | Phison E16                             | PCIE 4.0                         |  
