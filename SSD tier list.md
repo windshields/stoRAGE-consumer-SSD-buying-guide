@@ -91,6 +91,7 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
   | Silicon Power P34A80                      | Silicon Motion SM2262EN                | -------------------------------- |
   | HP EX920                                  | Silicon Motion SM2262                  | -------------------------------- |
+  | HP EX950                                  | Silicon Motion SM2262EN                | -------------------------------- |
   | Kingston KC2000                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
   | Mushkin Pilot-E                           | Silicon Motion SM2262EN                | -------------------------------- |
