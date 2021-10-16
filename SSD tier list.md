@@ -94,15 +94,16 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | HP EX950                                  | Silicon Motion SM2262EN                | -------------------------------- |
   | Kingston KC2000                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Kingston KC2500                           | Silicon Motion SM2262EN                | -------------------------------- |
-  | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
   | Mushkin Pilot-E                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Transcend 220s                            | Silicon Motion SM2262EN                | -------------------------------- |
+  | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
   | Silicon Power XD80                        | Phison E12                             | -------------------------------- |
   | Corsair MP510                             | Phison E12                             | -------------------------------- |
   | Seagate Barracuda 510                     | Phison E12                             | -------------------------------- |
   | Seagate Firecuda 510                      | Phison E12                             | -------------------------------- |
   | Team MP34                                 | Phison E12                             | -------------------------------- |
   | Patriot Viper VPN100                      | Phison E12                             | -------------------------------- |
+  | Patriot Viper VPR100                      | Phison E12                             | -------------------------------- |
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
   | Addlink S70                               | Phison E12                             | -------------------------------- |
   | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
