@@ -5,6 +5,7 @@
 
 `DRIVES ARE PCIE 3.0 3D TLC NAND+DEDICATED DRAM CACHE UNLESS OTHERWISE NOTED! EOL NOTE INDICATES DISCONTUNINUITY, LIKELY NOT PRICED COMPETIVELY. IF YOU ARE CONFUSED ABOUT DRAMLESS AND QLC NOTES YOU CAN REFER TO THE WRITE-UPS LOCATED WITHIN THE MAIN GUIDE`
 `If drive is marked with "PCIE 4.0" you need to be on a motherboard/cpu platform with PCIE 4.0 support for all of the drives performance to be available (Drive should still function with PCIE 3.0).`
+
 `THIS LIST IS DESIGNED FOR BASIC REFERENCE, ATTACHED ARE REPUTEABLE SSD REVIEW SOURCES` 
 
 https://www.tomshardware.com/author/sean-webster
