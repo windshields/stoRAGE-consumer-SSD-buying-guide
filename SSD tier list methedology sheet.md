@@ -47,7 +47,7 @@ Minimum Random 4K read QD1: 50MB/S (12207 IOPS)
 
 Minimum sustained sequential write at 1MB block size QD32: 500MB/s
 
-Minimum peak sequential write - 128KB block size: 2800MB/S
+Minimum peak sequential write - 128KB block size: 3000MB/S
 
 Minimum 50GB copy transfer rate (Diskbench): 600MB/s
 
