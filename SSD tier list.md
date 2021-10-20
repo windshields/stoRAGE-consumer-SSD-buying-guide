@@ -141,6 +141,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | ADATA/XPG Gammix S70                      | Innogrit Rainier IG5236                | PCIE 4.0                         |
  | Acer Predator GM7000                      | Innogrit Rainier IG5236                | PCIE 4.0                         | 
  | WD Black SN850                            | WD in house                            | PCIE 4.0                         |
+ | Gigabyte Aorus Gen4 7000s                 | Phison E18                             | PCIE 4.0                         | 
  | Seagate FireCuda 530                      | Phison E18                             | PCIE 4.0                         | 
  | Mushkin Gamma                             | Phison E18                             | PCIE 4.0                         |
  | MSI Spatium M480                          | Phison E18                             | PCIE 4.0                         | 
