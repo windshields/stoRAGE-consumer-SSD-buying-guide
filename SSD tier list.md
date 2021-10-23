@@ -22,7 +22,7 @@ Here are three pcpartpicker list that should show the cheapest available drive i
 
 500GB: https://pcpartpicker.com/user/SLOWaf/saved/WG8cHx
 
-1TB: https://pcpartpicker.com/user/SLOWaf/saved/b6KDZL 
+1TB: https://pcpartpicker.com/user/SLOWaf/saved/#view=b6KDZL 
 
 2TB: https://pcpartpicker.com/user/SLOWaf/saved/VvVVWZ
 
