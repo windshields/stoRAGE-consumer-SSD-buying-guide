@@ -87,7 +87,6 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | ADATA/XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
   | ADATA/XPG SX8100                          | Realtek RTS5762                        | -------------------------------- |
-  | ADATA/XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
   | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
   | Silicon Power P34A80                      | Silicon Motion SM2262EN                | -------------------------------- |
   | HP EX920                                  | Silicon Motion SM2262                  | -------------------------------- |
@@ -124,6 +123,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
   | Samsung 970 Evo Plus                      | Samsung Phoenix OR Elpis               | -------------------------------- |
   | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EOL              |
   | WD black SN750                            | WD in house                            | -------------------------------- |
+  | ADATA/XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
   | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
   | Sabrent Rocket 4.0                        | Phison E16                             | PCIE 4.0                         |  
   | Corsair MP600                             | Phison E16                             | PCIE 4.0                         |
