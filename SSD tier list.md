@@ -18,13 +18,13 @@ https://www.techpowerup.com/review/?category=SSD
 
 https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit#gid=0
 
-Here are three pcpartpicker list that should show the cheapest available drive in each tier; remember to select correct region. It's recommended to cross reference with the rest of the list since these links may be out of date. (Thank you to SLOWaf)
+Here are three pcpartpicker list that should show the cheapest available drive in each tier; remember to select correct region. It's recommended to cross reference with the rest of the list since these links may be out of date. Thank you to contributor: forgetStyx.
 
-500GB: https://pcpartpicker.com/user/SLOWaf/saved/#view=WG8cHx
+500GB: https://pcpartpicker.com/user/forgetStyx/saved/#view=bGvTYJ
 
-1TB: https://pcpartpicker.com/user/SLOWaf/saved/#view=b6KDZL 
+1TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=M2qcHx
 
-2TB: https://pcpartpicker.com/user/SLOWaf/saved/#view=VvVVWZ
+2TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=sPbqRB
 
 
 ## Tier C: Budget NVME drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
