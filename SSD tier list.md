@@ -37,7 +37,7 @@ Here are three pcpartpicker list that should show the cheapest available drive i
   | WD Blue SN520                             | WD in house                            | DRAMLESS+EXTENDED SRAM, MOSTLY OEM |
   | WD Blue SN500                             | WD in house                            | DRAMLESS+EXTENDED SRAM, MOSTLY OEM |
   | Acer FA100                                | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
-  | Kingston A2000                            | Silicon Motion SM2263                  | faster after firmware update     |
+  | Kingston A2000                            | Silicon Motion SM2263                  | faster after firmware update, best in tier |
   | Crucial P1                                | Silicon Motion SM2263                  | QLC NAND                         |
   | Intel 660P                                | Silicon Motion SM2263                  | QLC NAND                         |
   | HP EX900 pro                              | Silicon Motion SM2263                  | -------------------------------- |
