@@ -39,7 +39,7 @@ Minimum peak sequential write - 128KB block size: 2200MB/S
 
 Minimum 50GB copy transfer rate (Diskbench): 400MB/s
 
-Minimum peak sequential read (CDM, ATTO, Or IOMETER): 2500MB/s
+Minimum peak sequential read (CDM, ATTO, Or IOMETER): 2400MB/s
 
 Minimum Random 4K read QD1: 50MB/S (12207 IOPS)
 
