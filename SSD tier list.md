@@ -123,6 +123,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
   | Samsung 970 Evo Plus                      | Samsung Phoenix OR Elpis               | -------------------------------- |
   | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EOL              |
   | WD black SN750                            | WD in house                            | -------------------------------- |
+  | WD black SN730                            | WD in house                            | MOSTLY OEM                       |
   | ADATA/XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
   | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
   | Sabrent Rocket 4.0                        | Phison E16                             | PCIE 4.0                         |  
@@ -140,7 +141,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
  | ADATA/XPG Gammix S70                      | Innogrit Rainier IG5236                | PCIE 4.0                         |
  | Acer Predator GM7000                      | Innogrit Rainier IG5236                | PCIE 4.0                         | 
- | WD black AN1500                           | (multiple) WD in house + RAID controller | PCIE 3.0 X8, AIC, multiple SN730/SN750 in raid |
+ | WD black AN1500                           | (multiple) WD in house + RAID controller | PCIE 3.0 X8, AIC, multiple SN730s in raid |
  | WD Black SN850                            | WD in house                            | PCIE 4.0                         |
  | Gigabyte Aorus Gen4 7000s                 | Phison E18                             | PCIE 4.0                         | 
  | Seagate FireCuda 530                      | Phison E18                             | PCIE 4.0                         | 
