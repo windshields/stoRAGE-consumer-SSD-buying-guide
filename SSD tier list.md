@@ -34,9 +34,10 @@ Here are three pcpartpicker list that should show the cheapest available drive i
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | WD Blue SN550                             | WD in house                            | DRAMLESS+HMB+EXTENDED SRAM       |
-  | WD Blue SN520                             | WD in house                            | DRAMLESS+EXTENDED SRAM, FOR OEM |
-  | WD Blue SN500                             | WD in house                            | DRAMLESS+EXTENDED SRAM, FOR OEM |
+  | WD Blue SN520                             | WD in house                            | DRAMLESS+EXTENDED SRAM, FOR OEM  |
+  | WD Blue SN500                             | WD in house                            | DRAMLESS+EXTENDED SRAM, FOR OEM  |
   | Acer FA100                                | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
+  | ADATA Swordfish                            | Realtek RTS5763DL	                    | DRAMLESS+HMB                     |
   | Kingston A2000                            | Silicon Motion SM2263                  | faster after firmware update, best in tier |
   | Crucial P1                                | Silicon Motion SM2263                  | QLC NAND                         |
   | Intel 660P                                | Silicon Motion SM2263                  | QLC NAND                         |
@@ -86,7 +87,7 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | ADATA/XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
-  | ADATA/XPG SX8100                          | Realtek RTS5762                        | -------------------------------- |
+  | ADATA/XPG SX8100                          | Realtek RTS5762                        | 4TB variant is QLC NAND          |
   | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
   | Silicon Power P34A80                      | Silicon Motion SM2262EN                | -------------------------------- |
   | HP EX920                                  | Silicon Motion SM2262                  | -------------------------------- |
