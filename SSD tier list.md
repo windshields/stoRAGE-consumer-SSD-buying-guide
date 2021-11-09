@@ -73,7 +73,8 @@ Here are three pcpartpicker list that should show the cheapest available drive i
   | Transcend SSD230S                         | Silicon Motion SM2258                  | -------------------------------- |
   | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
   | PNY CS2311                                | Phison S12                             | -------------------------------- |
-  | Seagate Barracuda/Firecuda 120            | Phison S12                             | -------------------------------- |
+  | Seagate Barracuda 120                     | Phison S12                             | -------------------------------- |
+  | Seagate Firecuda 120                      | Phison S12                             | -------------------------------- |
   | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE |
   | Samsung 860 Evo                           | Samsung MJX                            | -------------------------------- |
   | Samsung 870 Evo                           | Samsung MKX                            | -------------------------------- |
