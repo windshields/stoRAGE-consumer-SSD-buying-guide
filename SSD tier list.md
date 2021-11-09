@@ -58,7 +58,7 @@ Here are three pcpartpicker list that should show the cheapest available drive i
   
   
   
-### Tier C: What If I Don't Have an M.2 Slot? 2.5" SATA/AHCI drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
+### Tier C: What If I Don't Have an M.2 Slot? -- 2.5" SATA/AHCI drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | Crucial MX500                             | Silicon Motion SM2258                  | -------------------------------- |
