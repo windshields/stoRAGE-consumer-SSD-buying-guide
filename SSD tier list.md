@@ -4,7 +4,7 @@
 `OPTIMAL PRICE RANGE IS IN USD, ->EXTRAPOLATE<- FOR YOUR OWN CURRENCY AND FOLLOW INSTRUCTIONS. tier list instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THAT FITS YOUR USE CASE, DRIVES ARE IN NO PARTICULAR ORDER`
 
 `DRIVES ARE PCIE 3.0 3D TLC NAND+DEDICATED DRAM CACHE UNLESS OTHERWISE NOTED! EOL NOTE INDICATES DISCONTUNINUITY, LIKELY NOT PRICED COMPETIVELY. IF YOU ARE CONFUSED ABOUT DRAMLESS AND QLC NOTES YOU CAN REFER TO THE WRITE-UPS LOCATED WITHIN THE MAIN GUIDE`
-`If drive is marked with "PCIE 4.0" you need to be on a motherboard/cpu platform with PCIE 4.0 support for all of the drives performance to be available (Drive should still function with PCIE 3.0).`
+`If drive is marked with "PCIE 4.0" you need to be on a motherboard/cpu platform with PCIE 4.0 support for all of the drives performance to be available (Drive should still function with PCIE 3.0). If drive is marked with AIC it is an add in card meant to go into PCIE slots`
 
 `THIS LIST IS DESIGNED FOR BASIC REFERENCE, ATTACHED ARE REPUTEABLE SSD REVIEW SOURCES` 
 
@@ -141,7 +141,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
  | ADATA/XPG Gammix S70                      | Innogrit Rainier IG5236                | PCIE 4.0                         |
  | Acer Predator GM7000                      | Innogrit Rainier IG5236                | PCIE 4.0                         | 
- | WD black AN1500                           | (multiple) WD in house + RAID controller | PCIE 3.0 X8, AIC, multiple SN730s in raid |
+ | WD black AN1500                           | (multiple) WD in house + RAID controller | AIC, PCIE 3.0 X8, multiple SN730s in raid |
  | WD Black SN850                            | WD in house                            | PCIE 4.0                         |
  | Gigabyte Aorus Gen4 7000s                 | Phison E18                             | PCIE 4.0                         | 
  | Seagate FireCuda 530                      | Phison E18                             | PCIE 4.0                         | 
