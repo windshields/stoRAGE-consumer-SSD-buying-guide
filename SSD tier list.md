@@ -48,7 +48,7 @@ Here are three pcpartpicker list that should show the cheapest available drive i
   | KLevv CRAS C710                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
   | Kingston NV1                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Patriot P300                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
-  | Team Grup MP33                            | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
+  | Team Group MP33                            | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Team Group Cardea Zero Z330               | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB,                    |
   | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
