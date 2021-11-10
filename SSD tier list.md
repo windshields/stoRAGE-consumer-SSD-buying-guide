@@ -48,8 +48,8 @@ Here are three pcpartpicker list that should show the cheapest available drive i
   | KLevv CRAS C710                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
   | Kingston NV1                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Patriot P300                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
-  | Team MP33                                 | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
-  | Team Cardea Zero Z330                     | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
+  | Team Grup MP33                            | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
+  | Team Group Cardea Zero Z330               | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB,                    |
   | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
   | Inland Platinum                           | Phison E12S                            | QLC NAND                         |
@@ -63,8 +63,8 @@ Here are three pcpartpicker list that should show the cheapest available drive i
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | Crucial MX500                             | Silicon Motion SM2258                  | -------------------------------- |
-  | Team L5 Lite 3D                           | Silicon Motion SM2258                  | -------------------------------- |
-  | Team T-Force Vulcan                       | Silicon Motion SM2258                  | -------------------------------- |
+  | Team Group L5 Lite 3D                     | Silicon Motion SM2258                  | -------------------------------- |
+  | Team Group T-Force Vulcan                 | Silicon Motion SM2258                  | -------------------------------- |
   | Team Group T-Force Delta RGB              | Silicon Motion SM2258                  | -------------------------------- |
   | ADATA SU800 Ultimate                      | Silicon Motion SM2258                  | -------------------------------- |
   | HP S700 Pro                               | Silicon Motion SM2258                  | -------------------------------- |
