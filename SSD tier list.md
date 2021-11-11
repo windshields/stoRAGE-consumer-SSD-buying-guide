@@ -90,7 +90,6 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | ADATA/XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
   | ADATA/XPG SX8100                          | Realtek RTS5762                        | 4TB variant is QLC NAND          |
   | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
-  | Silicon Power P34A80                      | Silicon Motion SM2262EN                | -------------------------------- |
   | HP EX920                                  | Silicon Motion SM2262                  | -------------------------------- |
   | HP EX950                                  | Silicon Motion SM2262EN                | -------------------------------- |
   | Kingston KC2000                           | Silicon Motion SM2262EN                | -------------------------------- |
