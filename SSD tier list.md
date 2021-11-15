@@ -42,7 +42,7 @@ Here are three pcpartpicker list that should show the cheapest available drive i
   | Crucial P1                                | Silicon Motion SM2263                  | QLC NAND                         |
   | Intel 660P                                | Silicon Motion SM2263                  | QLC NAND                         |
   | HP EX900 pro                              | Silicon Motion SM2263                  | -------------------------------- |
-  | HP EX900                                  | Silicon Motion SM2263XT                | DRAMLESS+HMB, EOL                |
+  | HP EX900                                  | Silicon Motion SM2263XT                | DRAMLESS+HMB,                    |
   | Mushkin Helix-L                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |  
   | Silicon power P34A60                      | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
   | KLevv CRAS C710                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
