@@ -97,7 +97,7 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | Mushkin Pilot-E                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Transcend 220s                            | Silicon Motion SM2262EN                | -------------------------------- |
   | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
-  | Silicon Power XD80                        | Phison E12                             | -------------------------------- |
+  | Silicon Power XD80                        | Maxio MAP1001                          | -------------------------------- |
   | Corsair MP510                             | Phison E12                             | -------------------------------- |
   | Seagate Barracuda 510                     | Phison E12                             | -------------------------------- |
   | Seagate Firecuda 510                      | Phison E12                             | -------------------------------- |
