@@ -133,6 +133,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
   | Seagate Firecuda 520                      | Phison E16                             | PCIE 4.0                         |
   | ADATA/XPG Gammix S50                      | Phison E16                             | PCIE 4.0                         |
   | Silicon Power US70                        | Phison E16                             | PCIE 4.0                         |
+  | MSI Spatium M470                          | Phison E16                             | PCIE 4.0                         |
 
 
 ## Tier S: Ultra high end NVME drives: [$160+ 1TB] [$300+ 2TB]
