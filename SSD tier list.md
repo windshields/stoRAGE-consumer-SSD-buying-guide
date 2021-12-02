@@ -96,6 +96,7 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | Kingston KC2500                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Mushkin Pilot-E                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Transcend 220s                            | Silicon Motion SM2262EN                | -------------------------------- |
+  | Acer Predator GM3500                      | Silicon Motion SM2262EN                | -------------------------------- |
   | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
   | Silicon Power P34A80                      | Maxio MAP1001 OR Silicon Motion SM2262 | -------------------------------- |
   | Silicon Power XD80                        | Maxio MAP1001 OR Phison E12S           | -------------------------------- |
@@ -155,7 +156,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | Corsair MP600 Pro XT                      | Phison E18                             | PCIE 4.0                         |  
  | Inland Performance Plus                   | Phison E18                             | PCIE 4.0                         |
  | Kingston KC3000                           | Phison E18                             | PCIE 4.0                         |
- | Team Group T-Force Cardea A440                  | Phison E18                             | PCIE 4.0                         | 
+ | Team Group T-Force Cardea A440            | Phison E18                             | PCIE 4.0                         | 
  | Samsung 980 Pro                           | Samsung Elpis                          | PCIE 4.0                         |
  | Crucial P5 plus                           | Micron in house                        | PCIE 4.0                         |
  | Intel Optane 905P                         | Intel SLM58                            | AIC, 3DXPOINT, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
