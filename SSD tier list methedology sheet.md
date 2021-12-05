@@ -67,7 +67,7 @@ Minimum 50GB copy transfer rate (Diskbench): 850MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 4000MB/s
 
-Minimum Random 4K read QD1: 65MB/S (15869 IOPS)
+Minimum Random 4K read QD1: 70MB/S (17090 IOPS)
  
 
 
