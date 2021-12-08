@@ -34,10 +34,10 @@ Here are three pcpartpicker list that should show the cheapest available drive i
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | WD Blue SN550                             | WD in house                            | DRAMLESS+HMB+EXTENDED SRAM       |
-  | WD Blue SN520                             | WD in house                            | DRAMLESS+EXTENDED SRAM, FOR OEM  |
-  | WD Blue SN500                             | WD in house                            | DRAMLESS+EXTENDED SRAM, FOR OEM  |
+  | WD Blue SN520                             | WD in house                            | PCIE 3.0 X2, DRAMLESS+EXTENDED SRAM, FOR OEM  |
+  | WD Blue SN500                             | WD in house                            | PCIE 3.0 X2, DRAMLESS+EXTENDED SRAM, FOR OEM  |
   | Acer FA100                                | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
-  | ADATA Swordfish                            | Realtek RTS5763DL	                    | DRAMLESS+HMB                     |
+  | ADATA Swordfish                           | Realtek RTS5763DL	                    | DRAMLESS+HMB                     |
   | Kingston A2000                            | Silicon Motion SM2263                  | faster after firmware update, best in tier |
   | Crucial P1                                | Silicon Motion SM2263                  | QLC NAND                         |
   | Intel 660P                                | Silicon Motion SM2263                  | QLC NAND                         |
