@@ -33,7 +33,6 @@ Here are three pcpartpicker list that should show the cheapest available drive i
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | WD Blue SN570                             | WD in house                            | DRAMLESS+HMB                     |
   | WD Blue SN550                             | WD in house                            | DRAMLESS+HMB+EXTENDED SRAM       |
   | WD Blue SN520                             | WD in house                            | PCIE 3.0 X2, DRAMLESS+EXTENDED SRAM, FOR OEM  |
   | WD Blue SN500                             | WD in house                            | PCIE 3.0 X2, DRAMLESS+EXTENDED SRAM, FOR OEM  |
@@ -88,6 +87,7 @@ Here are three pcpartpicker list that should show the cheapest available drive i
 TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S (No significant difference in performance)
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
+  | WD Blue SN570                             | WD in house                            | DRAMLESS+HMB                     |
   | ADATA/XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
   | ADATA/XPG SX8100                          | Realtek RTS5762                        | 4TB variant uses QLC NAND, likely C-tier |
   | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
