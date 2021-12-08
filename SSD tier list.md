@@ -159,8 +159,8 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | Team Group T-Force Cardea A440            | Phison E18                             | PCIE 4.0                         | 
  | Samsung 980 Pro                           | Samsung Elpis                          | PCIE 4.0                         |
  | Crucial P5 plus                           | Micron in house                        | PCIE 4.0                         |
- | Intel Optane 905P                         | Intel SLM58                            | AIC, 3DXPOINT, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
- | Intel Optane P5800x                       | Intel S LNBF	                          | U.2, PCIE 4.0, 3DXPOINT, BALLERS ONLY, ENTERPRISE, FASTEST SSD EVER MADE| 
+ | Intel Optane 905P                         | Intel SLM58 in house                   | AIC, 3DXPOINT, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
+ | Intel Optane P5800x                       | Intel S LNBF	in house                  | U.2, PCIE 4.0, 3DXPOINT, BALLERS ONLY, ENTERPRISE, FASTEST SSD EVER MADE| 
 
 
 
