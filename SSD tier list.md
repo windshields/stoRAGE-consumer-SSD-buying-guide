@@ -111,6 +111,8 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | Addlink S70                               | Phison E12                             | -------------------------------- |
   | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
   | WD black SN750-SE                         | Phison E19T                            | PCIE 4.0, DRAMLESS+HMB           |
+  | WD black SN750                            | WD in house                            | -------------------------------- |
+  | WD black SN730                            | WD in house                            | SN750 FOR  OEM                   |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
   | Crucial P5                                | Micron in house                        | -------------------------------- |
@@ -126,8 +128,6 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | doesnt actually exist            |    
   | Samsung 970 Evo Plus                      | Samsung Phoenix OR Elpis               | -------------------------------- |
   | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EOL              |
-  | WD black SN750                            | WD in house                            | EXCUSED FROM TIER PEAK RANDOM READ REQUIREMENT |
-  | WD black SN730                            | WD in house                            | SN750 FOR  OEM                   |
   | ADATA/XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
   | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
   | Sabrent Rocket 4.0                        | Phison E16                             | PCIE 4.0                         |  
