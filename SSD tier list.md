@@ -89,7 +89,6 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | WD Blue SN570                             | WD in house                            | DRAMLESS+HMB                     |
   | ADATA/XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
-  | ADATA/XPG SX8100                          | Realtek RTS5762                        | 4TB variant uses QLC NAND, likely C-tier |
   | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
   | HP EX920                                  | Silicon Motion SM2262                  | -------------------------------- |
   | HP EX950                                  | Silicon Motion SM2262EN                | -------------------------------- |
