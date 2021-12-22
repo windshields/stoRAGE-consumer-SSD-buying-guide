@@ -8,8 +8,7 @@ Some drive reviews may show that they do not meet the requirements of their resp
 updates and fixes. 
 
 Performance unless otherwise noted is based off of the 1tb variant of the drive.
-This methodology is designed to work with the metrics of Sean Websters reviews from tomshardware.com, TBW is typically disregarded since it's an arbitrary measurement and not
-a representive of real world endurance.
+This methodology is designed to work with the metrics of Sean Websters reviews from tomshardware.com, aswell as TPU metrics, TBW is typically disregarded since it's an arbitrary measurement and not an accurate representation of real world endurance.
 
 ## Universal listing requirements.
 
@@ -29,7 +28,7 @@ Minimum 50GB copy transfer rate (Diskbench): 150MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 1500MB/s 
 
-Minimum Random 4K read QD1: 40MB/S (9766 IOPS)
+Minimum Random 4K read QD1: 40MB/S (9766 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 50,000 IOPS
 
 
 ## TIER B: Mid-range NVME drive requirements
@@ -42,7 +41,7 @@ Minimum 50GB copy transfer rate (Diskbench): 400MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 2400MB/s
 
-Minimum Random 4K read QD1: 50MB/S (12207 IOPS)
+Minimum Random 4K read QD1: 50MB/S (12207 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 60,000 IOPS
 
 ## TIER A: High-end NVME drive requirements
 
@@ -54,10 +53,10 @@ Minimum 50GB copy transfer rate (Diskbench): 600MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 3000MB/s
 
-Minimum Random 4K read QD1: 60MB/S (14648 IOPS)
+Minimum Random 4K read QD1: 60MB/S (14648 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 65,000 IOPS
 
 ## TIER S: Ultra High-End NVME drive requirements
-[EXCEPTIONS MADE FOR 2-BIT MLC AND 3DXPOINT BASED DRIVES]
+[EXCEPTIONS MADE FOR 3DXPOINT BASED DRIVES]
 
 Minimum sustained sequential write at 1MB block size QD32: 500MB/s
 
@@ -67,7 +66,7 @@ Minimum 50GB copy transfer rate (Diskbench): 850MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 4000MB/s
 
-Minimum Random 4K read QD1: 70MB/S (17090 IOPS)
+Minimum Random 4K read QD1: 70MB/S (17090 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
  
 
 
