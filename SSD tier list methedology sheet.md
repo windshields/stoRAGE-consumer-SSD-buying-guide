@@ -1,5 +1,4 @@
-
-Disclaimer: Drives can be removed or moved based on underlying issues or miscellanious performance characteristics even if
+Drives can be removed or moved based on underlying issues or miscellanious performance characteristics even if
 fitting category qualifications. SSD performance is extremely complicated and it is difficult to categorize using single number statistics, however this is preferrable
 to no transparency at all in categorization. We do retain the ability to move around this methedology, SSD testing is extremely complicated, and reviewer drive conditioning, 
 Some performance metrics may not align with certain reviews depending on date and arbitrary changes in methedology over time. This methedology is a rough guideline and staff reserve discression to work around it.
