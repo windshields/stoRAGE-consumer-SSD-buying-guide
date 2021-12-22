@@ -4,7 +4,7 @@ fitting category qualifications. SSD performance is extremely complicated and it
 to no transparency at all in categorization. We do retain the ability to move around this methedology, SSD testing is extremely complicated, and reviewer drive conditioning, 
 Some performance metrics may not align with certain reviews depending on date and arbitrary changes in methedology over time. This methedology is a rough guideline and staff reserve discression to work around it.
 firmware changes, software, etc can massively impact the performance of an SSD on the bench. 
-Some drive reviews may show that they do not meet the requirements of their respective category,this is typically due to the drives performance increasing or decreasing with firmware 
+Some drive reviews may show that they do not meet the requirements of their respective category,this is typically either due to the drives performance increasing or decreasing with firmware, or revisions in review methedology and drive conditioning.
 updates and fixes. 
 
 Performance unless otherwise noted is based off of the 1tb variant of the drive.
