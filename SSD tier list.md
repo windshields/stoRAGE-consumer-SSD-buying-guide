@@ -6,6 +6,15 @@
 `DRIVES ARE PCIE 3.0 X4 M.2 NVME 3D TLC NAND+DEDICATED DRAM CACHE UNLESS OTHERWISE NOTED, OR IN 2.5" CATEGORY! EOL NOTE INDICATES DISCONTUNINUITY, LIKELY NOT PRICED COMPETIVELY. IF YOU ARE CONFUSED ABOUT DRAMLESS AND QLC NOTES YOU CAN REFER TO THE WRITE-UPS LOCATED WITHIN THE MAIN GUIDE`
 `If drive is marked with "PCIE 4.0" you need to be on a motherboard/cpu platform with PCIE 4.0 support for all of the drives performance to be available (Drive should still function with PCIE 3.0). If drive is marked with AIC it is an add in card meant to go into PCIE slots`
 
+`CHEAT SHEETS: show the cheapest available drive in each tier; remember to select correct region. It's recommended to cross reference with the rest of the list in case of error. Thank you to contributor: forgetStyx.`
+
+500GB: https://pcpartpicker.com/user/forgetStyx/saved/#view=bGvTYJ
+
+1TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=M2qcHx
+
+2TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=sPbqRB
+
+
 `THIS LIST IS DESIGNED FOR BASIC REFERENCE, ATTACHED ARE REPUTEABLE SSD REVIEW SOURCES` 
 
 https://www.tomshardware.com/author/sean-webster
@@ -17,14 +26,6 @@ https://www.techpowerup.com/review/?category=SSD
 `ALSO HIGHLY RECOMMENDED IS THE NEWMAXX SSD SPREADSHEET FOR MORE COMPREHENSIVE COMPONENT INFORMATION[SOME INFO IS OUT OF DATE]`
 
 https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit#gid=0
-
-Here are three pcpartpicker list that should show the cheapest available drive in each tier; remember to select correct region. It's recommended to cross reference with the rest of the list since these links may be out of date. Thank you to contributor: forgetStyx.
-
-500GB: https://pcpartpicker.com/user/forgetStyx/saved/#view=bGvTYJ
-
-1TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=M2qcHx
-
-2TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=sPbqRB
 
 
 ## Tier C: Budget NVME drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
