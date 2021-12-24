@@ -110,6 +110,7 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | Patriot Viper VPR100                      | Phison E12                             | -------------------------------- |
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
   | Addlink S70                               | Phison E12                             | -------------------------------- |
+  | Zadak Spark RGB                           | Phison E12                             | -------------------------------- |
   | Neo Forza NFP075                          | Phison E12S                            | -------------------------------- |
   | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
   | WD black SN750-SE                         | Phison E19T                            | PCIE 4.0, DRAMLESS+HMB           |
