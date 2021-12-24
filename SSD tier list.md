@@ -112,6 +112,7 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | Addlink S70                               | Phison E12                             | -------------------------------- |
   | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
   | WD black SN750-SE                         | Phison E19T                            | PCIE 4.0, DRAMLESS+HMB           |
+  | MSI Spatium M390                          | Phison E15T                            | DRAMLESS+HMB                     |
   | WD black SN750                            | WD in house                            | -------------------------------- |
   | WD black SN730                            | WD in house                            | SN750 FOR  OEM                   |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
