@@ -27,7 +27,7 @@ Minimum 50GB copy transfer rate (Diskbench): 300MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 1500MB/s 
 
-Minimum Random 4K read QD1: 40MB/S (9766 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 50,000 IOPS
+Minimum Random 4K read QD1: 40MB/S (9766 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 35,000 IOPS
 
 
 ## TIER B: Mid-range NVME drive requirements
@@ -40,7 +40,7 @@ Minimum 50GB copy transfer rate (Diskbench): 500MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 2400MB/s
 
-Minimum Random 4K read QD1: 50MB/S (12207 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 60,000 IOPS
+Minimum Random 4K read QD1: 50MB/S (12207 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 40,000 IOPS
 
 ## TIER A: High-end NVME drive requirements
 
@@ -52,7 +52,7 @@ Minimum 50GB copy transfer rate (Diskbench): 700MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 3000MB/s
 
-Minimum Random 4K read QD1: 60MB/S (14648 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 65,000 IOPS
+Minimum Random 4K read QD1: 60MB/S (14648 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 50,000 IOPS
 
 ## TIER S: Ultra High-End NVME drive requirements
 [EXCEPTIONS MADE FOR 3DXPOINT BASED DRIVES]
@@ -65,7 +65,7 @@ Minimum 50GB copy transfer rate (Diskbench): 850MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 4000MB/s
 
-Minimum Random 4K read QD1: 70MB/S (17090 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
+Minimum Random 4K read QD1: 70MB/S (17090 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 60,000 IOPS
  
 
 
