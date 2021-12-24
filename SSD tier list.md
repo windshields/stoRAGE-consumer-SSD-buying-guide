@@ -49,13 +49,14 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | KLevv CRAS C710                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
   | Kingston NV1                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Patriot P300                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
-  | Team Group MP33                            | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
+  | Team Group MP33                           | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Team Group Cardea Zero Z330               | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB,                    |
   | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
   | Inland Platinum                           | Phison E12S                            | QLC NAND                         |
   | Sabrent Rocket-Q                          | Phison E12S                            | QLC NAND                         |
   | PNY CS2130                                | Phison E12S                            | QLC NAND                         |
+  | Kioxa Exercia NVME                        | Phison E12C                            | -------------------------------- |
   | Intel 670P                                | Silicon Motion SM2265                  | QLC NAND                         |
   
   
