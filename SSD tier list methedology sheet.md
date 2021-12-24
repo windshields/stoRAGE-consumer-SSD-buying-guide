@@ -16,6 +16,7 @@ Must meet budget drive requirements.
 No exceptional problems which indicate high failure rate, or use of any controller with an exceptionally high failure rate.
 
 Maximum 4kb qd1 random read latency (ATTO, Or iometer): 0.15 milliseconds. (Exception for sata)
+
 Maximum 4kb qd4 random read latency (ATTO, Or iometer): 0.25 milliseconds. (Exception for sata)
 
 ## TIER C: Budget NVME drive requirements 
