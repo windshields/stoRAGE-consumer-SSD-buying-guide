@@ -23,9 +23,7 @@ Maximum 4kb qd4 random read latency (ATTO, Or iometer): 0.25 milliseconds. (Exce
 
 Minimum sustained sequential write: 100MB/s (Native write) (Disregarded if PSLC folding above & below)
 
-Minimum peak sequential write - 128KB block size: 1200MB/S
-
-Minimum 50GB copy transfer rate (Diskbench): 300MB/s 
+Minimum peak sequential write: 1600MB/S
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 1500MB/s 
 
@@ -36,9 +34,7 @@ Minimum Random 4K read QD1: 40MB/S (9766 IOPS) OR Mininum Random 4K read QD1,QD2
 
 Minimum sustained sequential write: 400MB/s (Native write) (Outlying drops disregarded) 
 
-Minimum peak sequential write - 128KB block size: 2200MB/S
-
-Minimum 50GB copy transfer rate (Diskbench): 500MB/s
+Minimum peak sequential write: 2200MB/S
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 2400MB/s
 
@@ -48,9 +44,7 @@ Minimum Random 4K read QD1: 50MB/S (12207 IOPS) OR Mininum Random 4K read QD1,QD
 
 Minimum sustained sequential write at 1MB block size QD32: 600MB/s (Native write)
 
-Minimum peak sequential write - 128KB block size: 3000MB/S
-
-Minimum 50GB copy transfer rate (Diskbench): 700MB/s
+Minimum peak sequential write: 3000MB/S
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 3000MB/s
 
@@ -62,8 +56,6 @@ Minimum Random 4K read QD1: 60MB/S (14648 IOPS) OR Mininum Random 4K read QD1,QD
 Minimum sustained sequential write:800MB/s (Native write)
 
 Minimum peak sequential write - 128KB block size: 4000MB/S
-
-Minimum 50GB copy transfer rate (Diskbench): 850MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 4000MB/s
 
