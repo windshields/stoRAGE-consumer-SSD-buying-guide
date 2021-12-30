@@ -47,7 +47,6 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | Mushkin Helix-L                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |  
   | Silicon power P34A60                      | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
   | KLevv CRAS C710                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
-  | Kingston NV1                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Patriot P300                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Team Group MP33                           | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | Team Group Cardea Zero Z330               | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
