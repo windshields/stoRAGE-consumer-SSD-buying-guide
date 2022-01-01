@@ -8,6 +8,8 @@
 
 `CHEAT SHEETS: show the cheapest available drive in each tier; remember to select correct region. It's recommended to cross reference with the rest of the list in case of error. Thank you to contributor: forgetStyx.`
 
+250GB: https://pcpartpicker.com/user/forgetStyx/saved/#view=4snmD3
+
 500GB: https://pcpartpicker.com/user/forgetStyx/saved/#view=bGvTYJ
 
 1TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=M2qcHx
