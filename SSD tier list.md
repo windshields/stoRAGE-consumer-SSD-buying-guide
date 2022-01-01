@@ -16,6 +16,10 @@
 
 2TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=sPbqRB
 
+4TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=LDC34D
+
+8TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=wVdpBm
+
 
 `THIS LIST IS DESIGNED FOR BASIC REFERENCE, ATTACHED ARE REPUTEABLE SSD REVIEW SOURCES` 
 
