@@ -1,13 +1,12 @@
-Drives can be removed or moved based on underlying issues or miscellanious performance characteristics even if
-fitting category qualifications. SSD performance is extremely complicated and it is difficult to categorize using single number statistics, however this is preferrable
-to no transparency at all in categorization. We do retain the ability to move around this methedology, SSD testing is extremely complicated, and reviewer drive conditioning, 
-Some performance metrics may not align with certain reviews depending on date and arbitrary changes in methedology over time. This methedology is a rough guideline and staff reserve discression to work around it.
+SSD performance is extremely complicated and it is difficult to categorize using single number statistics, however this is preferrable to no transparency at all in categorization. We do retain the ability to move around this methedology, SSD testing is extremely complicated, and reviewer drive conditioning,can skew results
+Some performance metrics may not align with certain reviews depending on date and arbitrary changes in methedology/conditioning over time. This methedology is a rough guideline and staff reserve discression to work around it.
 firmware changes, software, etc can massively impact the performance of an SSD on the bench. 
-Some drive reviews may show that they do not meet the requirements of their respective category,this is typically either due to the drives performance increasing or decreasing with firmware, or revisions in review methedology and drive conditioning.
-updates and fixes. 
+Some drive reviews may show that they do not meet the requirements of their respective category, if this is the case and the drive is still in a specific tier it likely means we have found a reputable review where it does meet tier performance requirements.
 
 Performance unless otherwise noted is based off of the 1tb variant of the drive.
-This methodology is designed to work with the metrics of Sean Websters reviews from tomshardware.com, aswell as TPU metrics, TBW is typically disregarded since it's an arbitrary measurement and not an accurate representation of real world endurance.
+This methodology is designed to work with the metrics of Sean Websters reviews from tomshardware.com,TPU metrics,and generic CDM results. 
+
+TBW is disregarded since it's an arbitrary measurement and not an accurate representation of real world endurance, drive reliability is determined on a case to case basis.
 
 ## Universal listing requirements.
 
