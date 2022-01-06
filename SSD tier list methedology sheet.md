@@ -54,7 +54,7 @@ Minimum peak sequential read (CDM, ATTO, Or IOMETER): 3000MB/s
 
 Minimum Random 4K read QD1: 60MB/S (14648 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 60,000 IOPS
 
-Minimum Random 4K write QD1: 200MB/S (36621 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
+Minimum Random 4K write QD1: 200MB/S (48828 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
 
 
 
@@ -69,7 +69,7 @@ Minimum peak sequential read (CDM, ATTO, Or IOMETER): 4000MB/s
 
 Minimum Random 4K read QD1: 70MB/S (17090 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
 
-Minimum Random 4K write QD1: 200MB/S (36621 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS ((Intentionally same as A tier)
+Minimum Random 4K write QD1: 200MB/S (48828 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
 
  
 
