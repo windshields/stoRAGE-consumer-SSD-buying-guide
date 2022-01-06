@@ -59,7 +59,6 @@ Minimum Random 4K write QD1: 200MB/S (48828 IOPS) OR Minimum Random 4K write QD1
 
 
 ## TIER S: Ultra High-End NVME drive requirements
-[EXCEPTIONS MADE FOR 3DXPOINT BASED DRIVES]
 
 Minimum sustained sequential write:800MB/s (Native write)
 
