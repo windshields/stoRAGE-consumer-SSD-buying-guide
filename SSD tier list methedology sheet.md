@@ -22,38 +22,38 @@ Maximum 4kb QD4 random read latency (ATTO, Or iometer): 0.25 milliseconds. (Exce
 
 Minimum sustained sequential write: 100MB/s (Native write) (Disregarded if PSLC folding above & below)
 
-Minimum peak sequential write: 1600MB/S
+Minimum peak sequential write: 1600MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 1500MB/s 
 
-Minimum Random 4K read QD1: 40MB/S (9766 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 40,000 IOPS
+Minimum Random 4K read QD1: 40MB/s (9766 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 40,000 IOPS
 
-Minimum Random 4K write QD1: 100MB/S (24414 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 50,000 IOPS
+Minimum Random 4K write QD1: 100MB/s (24414 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 50,000 IOPS
 
 
 ## TIER B: Mid-range NVME drive requirements
 
 Minimum sustained sequential write: 400MB/s (Native write) (Outlying drops disregarded) 
 
-Minimum peak sequential write: 2200MB/S
+Minimum peak sequential write: 2200MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 2400MB/s
 
-Minimum Random 4K read QD1: 50MB/S (12207 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 45,000 IOPS
+Minimum Random 4K read QD1: 50MB/s (12207 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 45,000 IOPS
 
-Minimum Random 4K write QD1: 150MB/S (36621 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 65,000 IOPS
+Minimum Random 4K write QD1: 150MB/s (36621 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 65,000 IOPS
 
 ## TIER A: High-end NVME drive requirements
 
 Minimum sustained sequential write: 600MB/s (Native write)
 
-Minimum peak sequential write: 3000MB/S
+Minimum peak sequential write: 3000MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 3000MB/s
 
-Minimum Random 4K read QD1: 60MB/S (14648 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 60,000 IOPS
+Minimum Random 4K read QD1: 60MB/s (14648 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 60,000 IOPS
 
-Minimum Random 4K write QD1: 200MB/S (48828 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
+Minimum Random 4K write QD1: 200MB/s (48828 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
 
 
 
@@ -61,13 +61,13 @@ Minimum Random 4K write QD1: 200MB/S (48828 IOPS) OR Minimum Random 4K write QD1
 
 Minimum sustained sequential write: 800MB/s (Native write)
 
-Minimum peak sequential write - 128KB block size: 4000MB/S
+Minimum peak sequential write - 128KB block size: 4000MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 4000MB/s
 
-Minimum Random 4K read QD1: 70MB/S (17090 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
+Minimum Random 4K read QD1: 70MB/s(17090 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
 
-Minimum Random 4K write QD1: 200MB/S (48828 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
+Minimum Random 4K write QD1: 200MB/s(48828 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 70,000 IOPS
 
  
 
