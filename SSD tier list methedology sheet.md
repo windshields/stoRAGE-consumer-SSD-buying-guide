@@ -35,9 +35,9 @@ Minimum Random 4K write QD1: 100MB/s (24414 IOPS) OR Minimum Random 4K write QD1
 
 Minimum sustained sequential write: 400MB/s (Native write) (Outlying drops disregarded) 
 
-Minimum peak sequential write: 2200MB/s
+Minimum peak sequential write: 2400MB/s
 
-Minimum peak sequential read (CDM, ATTO, Or IOMETER): 2400MB/s
+Minimum peak sequential read (CDM, ATTO, Or IOMETER): 2600MB/s
 
 Minimum Random 4K read QD1: 50MB/s (12207 IOPS) OR Mininum Random 4K read QD1,QD2,Q4(75%,20%,5%)[TPU]: 45,000 IOPS
 
