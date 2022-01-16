@@ -44,7 +44,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | WD Blue SN520                             | WD in house                            | PCIE 3.0 X2, DRAMLESS+EXTENDED SRAM, FOR OEM  |
   | WD Blue SN500                             | WD in house                            | PCIE 3.0 X2, DRAMLESS+EXTENDED SRAM, FOR OEM  |
   | Acer FA100                                | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
-  | ADATA Swordfish                           | Realtek RTS5763DL	                    | DRAMLESS+HMB                     |
+  | ADATA Swordfish                           | Realtek RTS5763DL	                     | DRAMLESS+HMB                     |
   | Kingston A2000                            | Silicon Motion SM2263                  | faster after firmware update, best in tier |
   | Crucial P1                                | Silicon Motion SM2263                  | QLC NAND                         |
   | Intel 660P                                | Silicon Motion SM2263                  | QLC NAND                         |
@@ -95,6 +95,7 @@ TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | WD Blue SN570                             | WD in house                            | DRAMLESS+HMB                     |
+  | Lexar NM620                               | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
   | ADATA/XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
   | ADATA/XPG SX8600 PRO                      | Silicon Motion SM2262EN                | -------------------------------- |
   | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
