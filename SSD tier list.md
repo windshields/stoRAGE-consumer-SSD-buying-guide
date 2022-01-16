@@ -85,6 +85,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE |
   | Samsung 860 Evo                           | Samsung MJX                            | -------------------------------- |
   | Samsung 870 Evo                           | Samsung MKX                            | -------------------------------- |
+  | Sandisk Ultra 3D                          | Marvell 88SS1074                       | -------------------------------- |
   | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
   | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE HIGHER ENDURANCE |
 
