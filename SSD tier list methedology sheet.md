@@ -22,7 +22,7 @@ Maximum 4kb QD4 random read latency (ATTO, Or iometer): 0.25 milliseconds. (Exce
 
 Minimum sustained sequential write: 100MB/s (Native write) (Disregarded if PSLC folding above & below)
 
-Minimum peak sequential write: 1400MB/s
+Minimum peak sequential write: 1600MB/s
 
 Minimum peak sequential read (CDM, ATTO, Or IOMETER): 1500MB/s 
 
