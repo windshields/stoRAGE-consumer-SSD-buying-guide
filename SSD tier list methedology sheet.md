@@ -18,7 +18,7 @@ Maximum 4kb QD1 random read latency (ATTO, Or iometer): 0.15 milliseconds. (Exce
 
 Maximum 4kb QD4 random read latency (ATTO, Or iometer): 0.25 milliseconds. (Exception for sata)
 
-## TIER C: Budget NVME drive requirements 
+## C TIER: Budget NVME drive requirements 
 
 Minimum sustained sequential write: 100MB/s (Native write) (Disregarded if PSLC folding above & below)
 
@@ -31,7 +31,7 @@ Minimum Random 4K read QD1: 40MB/s (9766 IOPS) OR Mininum Random 4K read QD1,QD2
 Minimum Random 4K write QD1: 100MB/s (24414 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 50,000 IOPS
 
 
-## TIER B: Mid-range NVME drive requirements
+## B TIER: Mid-range NVME drive requirements
 
 Minimum sustained sequential write: 400MB/s (Native write) (Outlying drops disregarded) 
 
@@ -43,7 +43,7 @@ Minimum Random 4K read QD1: 50MB/s (12207 IOPS) OR Mininum Random 4K read QD1,QD
 
 Minimum Random 4K write QD1: 150MB/s (36621 IOPS) OR Minimum Random 4K write QD1,QD2,Q4(75%,20%,5%)[TPU]: 65,000 IOPS
 
-## TIER A: High-end NVME drive requirements
+## A TIER: High-end NVME drive requirements
 
 Minimum sustained sequential write: 600MB/s (Native write)
 
@@ -57,7 +57,7 @@ Minimum Random 4K write QD1: 200MB/s (48828 IOPS) OR Minimum Random 4K write QD1
 
 
 
-## TIER S: Ultra High-End NVME drive requirements
+## S TIER: Ultra High-End NVME drive requirements
 
 Minimum sustained sequential write: 800MB/s (Native write)
 
