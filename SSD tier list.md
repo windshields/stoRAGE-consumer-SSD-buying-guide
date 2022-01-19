@@ -34,7 +34,7 @@ https://www.techpowerup.com/review/?category=SSD
 https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit#gid=0
 
 
-## Tier C: Budget NVME drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
+## Tier C: Budget NVME drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$80-100 1TB] [$180-200 2TB]
 
 ### For general desktop use, **gamers**, and light workstation/productivity use.
 
@@ -66,7 +66,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   
   
   
-### Tier C: What If I Don't Have an M.2 Slot? -- 2.5" SATA/AHCI drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$90-100 1TB] [$180-200 2TB]
+### Tier C: What If I Don't Have an M.2 Slot? -- 2.5" SATA/AHCI drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$80-100 1TB] [$180-200 2TB]
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | Crucial MX500                             | Silicon Motion SM2258                  | -------------------------------- |
