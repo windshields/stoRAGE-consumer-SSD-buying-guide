@@ -83,7 +83,8 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | Seagate Barracuda 120                     | Phison S12                             | -------------------------------- |
   | Seagate Firecuda 120                      | Phison S12                             | -------------------------------- |
   | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE |
-  | Samsung 860 Evo                           | Samsung MJX                            | -------------------------------- |
+  | Samsung 860 Evo                           | Samsung MJX                            | EOL                              |
+  | Samsung 860 Evo                           | Samsung MJX                            | 2 BIT MLC NAND, EOL              |
   | Samsung 870 Evo                           | Samsung MKX                            | -------------------------------- |
   | Sandisk Ultra 3D                          | Marvell 88SS1074                       | -------------------------------- |
   | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
@@ -172,6 +173,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | Team Group T-Force Cardea A440            | Phison E18                             | PCIE 4.0                         |
  | Addlink S95                               | Phison E18                             | PCIE 4.0                         | 
  | Samsung 980 Pro                           | Samsung Elpis                          | PCIE 4.0                         |
+ | Samsung PM9A1                             | Samsung Elpis                          | PCIE 4.0,  FOR OEM               |
  | Crucial P5 plus                           | Micron in house                        | PCIE 4.0                         |
  | Intel Optane 905P                         | Intel SLM58 in house                   | AIC, 3DXPOINT, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
  | Intel Optane P5800x                       | Intel S LNBF	in house                  | U.2, PCIE 4.0, 3DXPOINT, BALLERS ONLY, ENTERPRISE, FASTEST SSD EVER MADE| 
