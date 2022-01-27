@@ -93,7 +93,6 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
 ## Tier B: Mid-range NVME drives OPTIMAL PRICE RANGE: [$55-65 500GB] [$105-$130 1TB] [$200-$250 2TB]
 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
-TIER NOTE: Most drives using the Phison E12 should have switched to Phison E12S (No significant difference in performance)
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | WD Blue SN570                             | WD in house                            | DRAMLESS+HMB                     |
