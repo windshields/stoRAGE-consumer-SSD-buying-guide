@@ -175,7 +175,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | Samsung PM9A1                             | Samsung Elpis                          | PCIE 4.0,  FOR OEM               |
  | Crucial P5 plus                           | Micron in house                        | PCIE 4.0                         |
  | Intel Optane 905P                         | Intel SLM58 in house                   | AIC, 3DXPOINT, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
- | Intel Optane P5800x                       | Intel S LNBF	in house                  | U.2, PCIE 4.0, 3DXPOINT, BALLERS ONLY, ENTERPRISE, FASTEST SSD EVER MADE| 
+ | Intel Optane P5800x                       | Intel S LNBF	in house                  | U.2, PCIE 4.0, 3DXPOINT, BALLERS ONLY, ENTERPRISE| 
 
 
 
