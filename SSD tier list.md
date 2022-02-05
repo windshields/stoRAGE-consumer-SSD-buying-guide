@@ -141,7 +141,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
   | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | doesnt actually exist            |    
   | Samsung 970 Evo Plus                      | Samsung Phoenix OR Elpis               | -------------------------------- |
   | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EOL              |
-  | WD black SN770                            | WD in house                            | PCIE 4.0                         |
+  | WD black SN770                            | WD in house                            | PCIE 4.0, DRAMLESS+HMB           |
   | ADATA/XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
   | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
   | Sabrent Rocket 4.0                        | Phison E16                             | PCIE 4.0                         |  
