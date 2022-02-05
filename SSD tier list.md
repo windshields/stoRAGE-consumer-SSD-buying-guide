@@ -34,7 +34,7 @@ https://www.techpowerup.com/review/?category=SSD
 https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit#gid=0
 
 
-## Tier C: Budget NVME drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$80-100 1TB] [$180-200 2TB]
+## Tier C: Budget NVME drives ESTIMATED PRICE RANGE: [$45-55 500GB] [$80-100 1TB] [$180-200 2TB]
 
 ### For general desktop use, **gamers**, and light workstation/productivity use.
 
@@ -67,7 +67,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   
   
   
-### Tier C: What If I Don't Have an M.2 Slot? -- 2.5" SATA/AHCI drives OPTIMAL PRICE RANGE: [$45-55 500GB] [$80-100 1TB] [$180-200 2TB]
+### Tier C: What If I Don't Have an M.2 Slot? -- 2.5" SATA/AHCI drives ESTIMATED PRICE RANGE: [$45-55 500GB] [$80-100 1TB] [$180-200 2TB]
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | Crucial MX500                             | Silicon Motion SM2258                  | -------------------------------- |
@@ -91,7 +91,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
   | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE HIGHER ENDURANCE |
 
-## Tier B: Mid-range NVME drives OPTIMAL PRICE RANGE: [$55-65 500GB] [$105-$130 1TB] [$200-$250 2TB]
+## Tier B: Mid-range NVME drives ESTIMATED PRICE RANGE: [$55-65 500GB] [$105-$130 1TB] [$200-$250 2TB]
 
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
   | Name                                      | Controller                             | Notes                            |
@@ -130,7 +130,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
   | Crucial P5                                | Micron in house                        | -------------------------------- |
  
-## Tier A: High end NVME drives OPTIMAL PRICE RANGE: [$130-160 1TB] [$250-$300 2tb]
+## Tier A: High end NVME drives ESTIMATED PRICE RANGE: [$130-160 1TB] [$250-$300 2tb]
 
 ### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications. Also works as an excuse to spend money.
 
@@ -153,7 +153,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
   | MSI Spatium M470                          | Phison E16                             | PCIE 4.0                         |
 
 
-## Tier S: Ultra high end NVME drives: [$160+ 1TB] [$300+ 2TB]
+## Tier S: Ultra high end NVME drives ESTIMATED PRICE RANGE: [$160+ 1TB] [$300+ 2TB]
 ### For *EXTREME* workstation/productivity, real HEDT/pro-sumer applications, and/or burning money
 
  | Name                                      | Controller                             | Notes                            |
