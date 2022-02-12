@@ -168,8 +168,8 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | Crucial P5 plus                           | Micron in house                        | PCIE 4.0                         |
  | Gigabyte Aorus Gen4 7000s                 | Phison E18                             | PCIE 4.0                         | 
  | Inland Performance Plus                   | Phison E18                             | PCIE 4.0                         |
- | Intel Optane 905P                         | Intel SLM58 in house                   | AIC, 3DXPOINT, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
- | Intel Optane P5800x                       | Intel S LNBF	in house                  | U.2, PCIE 4.0, 3DXPOINT, BALLERS ONLY, ENTERPRISE| 
+ | Intel Optane 905P                         | Intel SLM58                            | AIC, 3DXPOINT, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
+ | Intel Optane P5800x                       | Intel S LNBF	                          | U.2, PCIE 4.0, 3DXPOINT, BALLERS ONLY, ENTERPRISE| 
  | Kingston KC3000                           | Phison E18                             | PCIE 4.0                         |
  | Mushkin Gamma                             | Phison E18                             | PCIE 4.0                         |
  | Neo Forza NFP455                          | Innogrit Rainier IG5236                | PCIE 4.0                         |
