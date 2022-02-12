@@ -170,7 +170,8 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | MSI Spatium M480                          | Phison E18                             | PCIE 4.0                         | 
  | Sabrent Rocket 4 Plus                     | Phison E18                             | PCIE 4.0                         |  
  | Corsair MP600 Pro                         | Phison E18                             | PCIE 4.0                         |
- | Corsair MP600 Pro XT                      | Phison E18                             | PCIE 4.0                         |  
+ | Corsair MP600 Pro XT                      | Phison E18                             | PCIE 4.0                         |
+ | Corsair MP600 Pro LPX                     | Phison E18                             | PCIE 4.0                         |  
  | Inland Performance Plus                   | Phison E18                             | PCIE 4.0                         |
  | Kingston KC3000                           | Phison E18                             | PCIE 4.0                         |
  | Team Group T-Force Cardea A440            | Phison E18                             | PCIE 4.0                         |
