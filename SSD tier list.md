@@ -160,7 +160,8 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | Name                                      | Controller                             | Notes                            |
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
  | ADATA/XPG Gammix S70/S70 blade            | Innogrit Rainier IG5236                | PCIE 4.0                         |
- | Acer Predator GM7000                      | Innogrit Rainier IG5236                | PCIE 4.0                         | 
+ | Acer Predator GM7000                      | Innogrit Rainier IG5236                | PCIE 4.0                         |
+ | Neo Forza NFP455                          | Innogrit Rainier IG5236                | PCIE 4.0                         |
  | WD black AN1500                           | (multiple) WD in house + RAID controller | AIC, PCIE 3.0 X8, 2x SN730s in raid 0 |
  | WD Black SN850                            | WD in house                            | PCIE 4.0                         |
  | Gigabyte Aorus Gen4 7000s                 | Phison E18                             | PCIE 4.0                         | 
