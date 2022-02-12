@@ -138,22 +138,21 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
 TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant performance advantage over PCIE 3.0 drives in the same tier.
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
+  | ADATA/XPG Atom 50                         | Innogrit IG5220 RainierQX              | PCIE 4.0, DRAMLESS+HMB           |
+  | ADATA/XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
+  | ADATA/XPG Gammix S50                      | Phison E16                             | PCIE 4.0                         |
+  | Corsair MP600                             | Phison E16                             | PCIE 4.0                         |
+  | Gigabyte Aorus Gen 4                      | Phison E16                             | PCIE 4.0                         |
+  | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
   | SK Hynix P31 Gold                         | SK Hynix Cepheus                       | -------------------------------- | 
-  | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | doesnt actually exist            |    
+  | SK Hynix P31 Platinum                     | SK Hynix Cepheus                       | doesnt actually exist            |  
+  | Sabrent Rocket 4.0                        | Phison E16                             | PCIE 4.0                         |  
   | Samsung 970 Evo Plus                      | Samsung Phoenix OR Elpis               | -------------------------------- |
   | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EOL              |
-  | WD black SN770                            | WD in house                            | PCIE 4.0, DRAMLESS+HMB           |
-  | ADATA/XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
-  | ADATA/XPG Atom 50                         | Innogrit IG5220 RainierQX              | PCIE 4.0, DRAMLESS+HMB           |
-  | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
-  | Sabrent Rocket 4.0                        | Phison E16                             | PCIE 4.0                         |  
-  | Corsair MP600                             | Phison E16                             | PCIE 4.0                         |
-  | Gigabyte Aorus Gen 4                      | Phison E16                             | PCIE 4.0                         | 
   | Seagate Firecuda 520                      | Phison E16                             | PCIE 4.0                         |
-  | ADATA/XPG Gammix S50                      | Phison E16                             | PCIE 4.0                         |
   | Silicon Power US70                        | Phison E16                             | PCIE 4.0                         |
   | MSI Spatium M470                          | Phison E16                             | PCIE 4.0                         |
-
+  | WD black SN770                            | WD in house                            | PCIE 4.0, DRAMLESS+HMB           |
 
 ## Tier S: Ultra high end NVME drives ESTIMATED PRICE RANGE: [$160+ 1TB] [$300+ 2TB]
 ### For *EXTREME* workstation/productivity, real HEDT/pro-sumer applications, and/or burning money
