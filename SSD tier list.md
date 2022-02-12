@@ -143,6 +143,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
   | Samsung 970 Pro                           | Samsung Phoenix                        | 2 BIT MLC NAND, EOL              |
   | WD black SN770                            | WD in house                            | PCIE 4.0, DRAMLESS+HMB           |
   | ADATA/XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
+  | ADATA/XPG Atom 50                         | Innogrit IG5220 RainierQX              | PCIE 4.0, DRAMLESS+HMB           |
   | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
   | Sabrent Rocket 4.0                        | Phison E16                             | PCIE 4.0                         |  
   | Corsair MP600                             | Phison E16                             | PCIE 4.0                         |
