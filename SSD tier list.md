@@ -159,35 +159,32 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
 
  | Name                                      | Controller                             | Notes                            |
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
- | ADATA/XPG Gammix S70/S70 blade            | Innogrit Rainier IG5236                | PCIE 4.0                         |
  | Acer Predator GM7000                      | Innogrit Rainier IG5236                | PCIE 4.0                         |
- | Neo Forza NFP455                          | Innogrit Rainier IG5236                | PCIE 4.0                         |
- | WD black AN1500                           | (multiple) WD in house + RAID controller | AIC, PCIE 3.0 X8, 2x SN730s in raid 0 |
- | WD Black SN850                            | WD in house                            | PCIE 4.0                         |
- | Gigabyte Aorus Gen4 7000s                 | Phison E18                             | PCIE 4.0                         | 
- | Seagate FireCuda 530                      | Phison E18                             | PCIE 4.0                         | 
- | Mushkin Gamma                             | Phison E18                             | PCIE 4.0                         |
- | MSI Spatium M480                          | Phison E18                             | PCIE 4.0                         | 
- | Sabrent Rocket 4 Plus                     | Phison E18                             | PCIE 4.0                         |  
+ | ADATA/XPG Gammix S70/S70 blade            | Innogrit Rainier IG5236                | PCIE 4.0                         |
+ | Addlink S95                               | Phison E18                             | PCIE 4.0                         |
  | Corsair MP600 Pro                         | Phison E18                             | PCIE 4.0                         |
  | Corsair MP600 Pro XT                      | Phison E18                             | PCIE 4.0                         |
- | Corsair MP600 Pro LPX                     | Phison E18                             | PCIE 4.0                         |  
- | Inland Performance Plus                   | Phison E18                             | PCIE 4.0                         |
- | Kingston KC3000                           | Phison E18                             | PCIE 4.0                         |
- | Team Group T-Force Cardea A440            | Phison E18                             | PCIE 4.0                         |
- | Team Group T-Force Cardea A440 Pro        | Phison E18                             | PCIE 4.0                         |
- | Addlink S95                               | Phison E18                             | PCIE 4.0                         | 
- | Samsung 980 Pro                           | Samsung Elpis                          | PCIE 4.0                         |
- | Samsung PM9A1                             | Samsung Elpis                          | PCIE 4.0,  FOR OEM               |
+ | Corsair MP600 Pro LPX                     | Phison E18                             | PCIE 4.0                         |
  | Crucial P5 plus                           | Micron in house                        | PCIE 4.0                         |
+ | Gigabyte Aorus Gen4 7000s                 | Phison E18                             | PCIE 4.0                         | 
+ | Inland Performance Plus                   | Phison E18                             | PCIE 4.0                         |
  | Intel Optane 905P                         | Intel SLM58 in house                   | AIC, 3DXPOINT, BALLERS ONLY, EOL, EXCUSED FROM TIER PEAK SPEED REQUIREMENTS |
  | Intel Optane P5800x                       | Intel S LNBF	in house                  | U.2, PCIE 4.0, 3DXPOINT, BALLERS ONLY, ENTERPRISE| 
+ | Kingston KC3000                           | Phison E18                             | PCIE 4.0                         |
+ | Mushkin Gamma                             | Phison E18                             | PCIE 4.0                         |
+ | Neo Forza NFP455                          | Innogrit Rainier IG5236                | PCIE 4.0                         |
+ | Sabrent Rocket 4 Plus                     | Phison E18                             | PCIE 4.0                         |  
+ | Samsung 980 Pro                           | Samsung Elpis                          | PCIE 4.0                         |
+ | Samsung PM9A1                             | Samsung Elpis                          | PCIE 4.0, FOR OEM                |
+ | Seagate FireCuda 530                      | Phison E18                             | PCIE 4.0                         | 
+ | MSI Spatium M480                          | Phison E18                             | PCIE 4.0                         | 
+ | Team Group T-Force Cardea A440            | Phison E18                             | PCIE 4.0                         |
+ | Team Group T-Force Cardea A440 Pro        | Phison E18                             | PCIE 4.0                         |
+ | WD black AN1500                           | (multiple) WD in house + RAID controller | AIC, PCIE 3.0 X8, 2x SN730s in raid 0 |
+ | WD Black SN850                            | WD in house                            | PCIE 4.0                         |
 
 
-
-METHODOLOGY DOCUMENT CAN BE FOUND HERE
-
-https://github.com/windshields/stoRAGE-consumer-SSD-buying-guide/blob/main/SSD%20tier%20list%20methedology%20sheet.md
+METHODOLOGY DOCUMENT CAN BE FOUND HERE: https://github.com/windshields/stoRAGE-consumer-SSD-buying-guide/blob/main/SSD%20tier%20list%20methedology%20sheet.md
 
 OUR DISCORD: https://discord.gg/CvKjxyGaph
 
