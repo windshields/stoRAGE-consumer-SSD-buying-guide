@@ -121,6 +121,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | Addlink S70                               | Phison E12                             | -------------------------------- |
   | Zadak Spark RGB                           | Phison E12                             | -------------------------------- |
   | Neo Forza NFP075                          | Phison E12S                            | -------------------------------- |
+  | Kioxa Exercia Plus G2                     | Phison E12S                            | -------------------------------- |
   | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
   | WD black SN750-SE                         | Phison E19T                            | PCIE 4.0, DRAMLESS+HMB           |
   | MSI Spatium M390                          | Phison E15T                            | DRAMLESS+HMB                     |
