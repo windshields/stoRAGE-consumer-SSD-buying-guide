@@ -40,6 +40,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
+  |                                           ACER                                                                        |
   | WD Blue SN550                             | WD in house                            | DRAMLESS+HMB+EXTENDED SRAM       |
   | WD Blue SN520                             | WD in house                            | PCIE 3.0 X2, DRAMLESS+EXTENDED SRAM, FOR OEM  |
   | WD Blue SN500                             | WD in house                            | PCIE 3.0 X2, DRAMLESS+EXTENDED SRAM, FOR OEM  |
