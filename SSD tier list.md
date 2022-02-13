@@ -34,7 +34,7 @@ https://www.techpowerup.com/review/?category=SSD
 https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2gT4/edit#gid=0
 
 
-## Tier C: Budget NVME drives ESTIMATED PRICE RANGE: [$45-55 500GB] [$80-100 1TB] [$180-200 2TB]
+## Tier C: Budget/Entry level NVME drives ESTIMATED PRICE RANGE: [$45-55 500GB] [$80-100 1TB] [$180-200 2TB]
 
 ### For general desktop use, **gamers**, and light workstation/productivity use.
 
