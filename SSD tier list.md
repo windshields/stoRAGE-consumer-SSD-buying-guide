@@ -1,7 +1,7 @@
 
 # stoRAGE-consumer-SSD-Buying-Guide: Tier list
 
-`OPTIMAL PRICE RANGE IS IN USD, ->EXTRAPOLATE<- FOR YOUR OWN CURRENCY AND FOLLOW RECOMMENDED INSTRUCTIONS. recommended tier list instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THAT FITS YOUR USE CASE, DRIVES ARE IN NO PARTICULAR ORDER WITHIN TIER, WILL BE SWITCHING TO ALPHABETICAL SORTING BY BRAND SOON`
+`OPTIMAL PRICE RANGE IS IN USD, ->EXTRAPOLATE<- FOR YOUR OWN CURRENCY AND FOLLOW RECOMMENDED INSTRUCTIONS. recommended tier list instructions: BUY THE CHEAPEST DRIVE AVAILABLE FOR YOU IN THE CATEGORY THAT FITS YOUR USE CASE, BRANDS ARE SORTED ALPHABETICALLY WITHIN EACH TIER, DRIVES ARE SORTED RANDOMLY WITHIN EACH BRAND`
 
 `DRIVES ARE PCIE 3.0 X4 M.2 NVME 3D TLC NAND+DEDICATED DRAM CACHE UNLESS OTHERWISE NOTED, OR IN 2.5" CATEGORY! EOL NOTE INDICATES DISCONTUNINUITY, LIKELY NOT PRICED COMPETIVELY. IF YOU ARE CONFUSED ABOUT DRAMLESS AND QLC NOTES YOU CAN REFER TO THE WRITE-UPS LOCATED WITHIN THE MAIN GUIDE`
 `If drive is marked with "PCIE 4.0" you need to be on a motherboard/cpu platform with PCIE 4.0 support for all of the drives performance to be available (Drive should still function with PCIE 3.0). If drive is marked with AIC it is an add in card meant to go into PCIE slots`
@@ -68,24 +68,24 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
 ### Tier C: What If I Don't Have an M.2 Slot? -- 2.5" SATA/AHCI drives ESTIMATED PRICE RANGE: [$45-55 500GB] [$80-100 1TB] [$180-200 2TB]
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | Crucial MX500                             | Silicon Motion SM2258                  | -------------------------------- |
-  | Team Group L5 Lite 3D                     | Silicon Motion SM2258                  | -------------------------------- |
-  | Team Group T-Force Vulcan                 | Silicon Motion SM2258                  | -------------------------------- |
-  | Team Group T-Force Delta RGB              | Silicon Motion SM2258                  | -------------------------------- |
   | ADATA SU800 Ultimate                      | Silicon Motion SM2258                  | -------------------------------- |
+  | Crucial MX500                             | Silicon Motion SM2258                  | -------------------------------- |
   | HP S700 Pro                               | Silicon Motion SM2258                  | -------------------------------- |
   | KLEVV NEO N610                            | Silicon Motion SM2258                  | -------------------------------- |
   | Lexar NS200                               | Silicon Motion SM2258                  | -------------------------------- |
-  | Transcend SSD230S                         | Silicon Motion SM2258                  | -------------------------------- |
-  | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
   | PNY CS2311                                | Phison S12                             | -------------------------------- |
-  | Seagate Barracuda 120                     | Phison S12                             | -------------------------------- |
-  | Seagate Firecuda 120                      | Phison S12                             | -------------------------------- |
-  | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE |
   | Samsung 860 Evo                           | Samsung MJX                            | EOL                              |
   | Samsung 860 Pro                           | Samsung MJX                            | 2 BIT MLC NAND, EOL              |
   | Samsung 870 Evo                           | Samsung MKX                            | -------------------------------- |
   | Sandisk Ultra 3D                          | Marvell 88SS1074                       | -------------------------------- |
+  | Seagate Barracuda 120                     | Phison S12                             | -------------------------------- |
+  | Seagate Firecuda 120                      | Phison S12                             | -------------------------------- |
+  | Seagate Ironwolf 125                      | Phison S12                             | BARRACUDA WITH MORE OP SPACE HIGHER ENDURANCE |
+  | SK Hynix S31 Gold                         | SK Hynix Quartz                        | -------------------------------- |
+  | Team Group L5 Lite 3D                     | Silicon Motion SM2258                  | -------------------------------- |
+  | Team Group T-Force Vulcan                 | Silicon Motion SM2258                  | -------------------------------- |
+  | Team Group T-Force Delta RGB              | Silicon Motion SM2258                  | -------------------------------- |
+  | Transcend SSD230S                         | Silicon Motion SM2258                  | -------------------------------- |
   | WD Blue 3D                                | Marvell 88SS1074                       | -------------------------------- |
   | WD Red 3D                                 | Marvell 88SS1074                       | WD BLUE 3D WITH MORE OP SPACE HIGHER ENDURANCE |
 
