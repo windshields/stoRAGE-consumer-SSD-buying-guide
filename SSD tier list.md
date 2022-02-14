@@ -40,32 +40,30 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
+  | Acer FA100                                | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
+  | ADATA Swordfish                           | Realtek RTS5763DL	                     | DRAMLESS+HMB                     |
+  | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
+  | Crucial P1                                | Silicon Motion SM2263                  | QLC NAND                         |
+  | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB,                    |
+  | HP EX900 pro                              | Silicon Motion SM2263                  | -------------------------------- |
+  | HP EX900                                  | Silicon Motion SM2263XT                | DRAMLESS+HMB,                    |
+  | Inland Platinum                           | Phison E12S                            | QLC NAND                         |
+  | Intel 660P                                | Silicon Motion SM2263                  | QLC NAND                         |
+  | Intel 670P                                | Silicon Motion SM2265                  | QLC NAND                         |
+  | Kingston A2000                            | Silicon Motion SM2263                  | faster after firmware update, best in tier |
+  | Kioxa Exercia NVME                        | Phison E12C                            | -------------------------------- |
+  | KLevv CRAS C710                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
+  | Lexar NM610                               | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
+  | Mushkin Helix-L                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |  
+  | Patriot P300                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
+  | PNY CS2130                                | Phison E12S                            | QLC NAND                         |
+  | Sabrent Rocket-Q                          | Phison E12S                            | QLC NAND                         |
+  | Silicon power P34A60                      | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
+  | Team Group MP33                           | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
+  | Team Group Cardea Zero Z330               | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
   | WD Blue SN550                             | WD in house                            | DRAMLESS+HMB+EXTENDED SRAM       |
   | WD Blue SN520                             | WD in house                            | PCIE 3.0 X2, DRAMLESS+EXTENDED SRAM, FOR OEM  |
   | WD Blue SN500                             | WD in house                            | PCIE 3.0 X2, DRAMLESS+EXTENDED SRAM, FOR OEM  |
-  | Acer FA100                                | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
-  | ADATA Swordfish                           | Realtek RTS5763DL	                     | DRAMLESS+HMB                     |
-  | Kingston A2000                            | Silicon Motion SM2263                  | faster after firmware update, best in tier |
-  | Crucial P1                                | Silicon Motion SM2263                  | QLC NAND                         |
-  | Intel 660P                                | Silicon Motion SM2263                  | QLC NAND                         |
-  | HP EX900 pro                              | Silicon Motion SM2263                  | -------------------------------- |
-  | HP EX900                                  | Silicon Motion SM2263XT                | DRAMLESS+HMB,                    |
-  | Mushkin Helix-L                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |  
-  | Silicon power P34A60                      | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
-  | KLevv CRAS C710                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
-  | Lexar NM610                               | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
-  | Patriot P300                              | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
-  | Team Group MP33                           | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
-  | Team Group Cardea Zero Z330               | Silicon Motion SM2263XT OR Phison E13T | DRAMLESS+HMB                     |
-  | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB,                    |
-  | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
-  | Inland Platinum                           | Phison E12S                            | QLC NAND                         |
-  | Sabrent Rocket-Q                          | Phison E12S                            | QLC NAND                         |
-  | PNY CS2130                                | Phison E12S                            | QLC NAND                         |
-  | Kioxa Exercia NVME                        | Phison E12C                            | -------------------------------- |
-  | Intel 670P                                | Silicon Motion SM2265                  | QLC NAND                         |
-  
-  
   
 ### Tier C: What If I Don't Have an M.2 Slot? -- 2.5" SATA/AHCI drives ESTIMATED PRICE RANGE: [$45-55 500GB] [$80-100 1TB] [$180-200 2TB]
   | Name                                      | Controller                             | Notes                            |
