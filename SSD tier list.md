@@ -96,40 +96,40 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
 ### For intensive consumer workstation/productivity applications, recommendable for gamers if close in price to budget drives.
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | WD Blue SN570                             | WD in house                            | DRAMLESS+HMB                     |
-  | Lexar NM620                               | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
+  | Acer Predator GM3500                      | Silicon Motion SM2262EN                | -------------------------------- |
   | ADATA/XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
   | ADATA/XPG SX8600 PRO                      | Silicon Motion SM2262EN                | -------------------------------- |
-  | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
+  | Addlink S70                               | Phison E12                             | -------------------------------- |
+  | Corsair MP510                             | Phison E12                             | -------------------------------- |
+  | Crucial P5                                | Micron in house                        | -------------------------------- |
   | HP EX920                                  | Silicon Motion SM2262                  | -------------------------------- |
   | HP EX950                                  | Silicon Motion SM2262EN                | -------------------------------- |
+  | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
+  | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
   | Kingston KC2000                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Kingston KC2500                           | Silicon Motion SM2262EN                | -------------------------------- |
+  | Kioxia Exercia Plus G2                    | Phison E12S                            | -------------------------------- |
+  | Lexar NM620                               | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
+  | MSI Spatium M390                          | Phison E15T                            | DRAMLESS+HMB                     |
   | Mushkin Pilot-E                           | Silicon Motion SM2262EN                | -------------------------------- |
-  | Transcend 220s                            | Silicon Motion SM2262EN                | -------------------------------- |
-  | Acer Predator GM3500                      | Silicon Motion SM2262EN                | -------------------------------- |
-  | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
-  | Silicon Power P34A80                      | Maxio MAP1001 OR Silicon Motion SM2262 | -------------------------------- |
-  | Silicon Power XD80                        | Maxio MAP1001 OR Phison E12S           | -------------------------------- |
-  | Corsair MP510                             | Phison E12                             | -------------------------------- |
-  | Seagate Barracuda 510                     | Phison E12                             | -------------------------------- |
-  | Seagate Firecuda 510                      | Phison E12                             | -------------------------------- |
-  | Team MP34                                 | Phison E12                             | -------------------------------- |
+  | Neo Forza NFP075                          | Phison E12S                            | -------------------------------- |
   | Patriot Viper VPN100                      | Phison E12                             | -------------------------------- |
   | Patriot Viper VPR100                      | Phison E12                             | -------------------------------- |
   | Sabrent Rocket                            | Phison E12                             | -------------------------------- |
-  | Addlink S70                               | Phison E12                             | -------------------------------- |
-  | Zadak Spark RGB                           | Phison E12                             | -------------------------------- |
-  | Neo Forza NFP075                          | Phison E12S                            | -------------------------------- |
-  | Kioxia Exercia Plus G2                     | Phison E12S                           | -------------------------------- |
-  | Inland Premium                            | Phison E12                             | NOT TO BE CONFUSED WITH QLC SATA VARIANT |
-  | WD black SN750-SE                         | Phison E19T                            | PCIE 4.0, DRAMLESS+HMB           |
-  | MSI Spatium M390                          | Phison E15T                            | DRAMLESS+HMB                     |
-  | WD black SN750                            | WD in house                            | -------------------------------- |
-  | WD black SN730                            | WD in house                            | SN750 FOR  OEM                   |
   | Samsung 970 Evo                           | Samsung Phoenix                        | EOL                              |
   | Samsung 980                               | Samsung Pablo                          | DRAMLESS+HMB                     |
-  | Crucial P5                                | Micron in house                        | -------------------------------- |
+  | Silicon Power P34A80                      | Maxio MAP1001 OR Silicon Motion SM2262 | -------------------------------- |
+  | Silicon Power XD80                        | Maxio MAP1001 OR Phison E12S           | -------------------------------- |
+  | Team MP34                                 | Phison E12                             | -------------------------------- |
+  | Team Group Cardea Z340                    | Phison E12S                            | -------------------------------- |
+  | Seagate Barracuda 510                     | Phison E12                             | -------------------------------- |
+  | Seagate Firecuda 510                      | Phison E12                             | -------------------------------- |
+  | Transcend 220s                            | Silicon Motion SM2262EN                | -------------------------------- |
+  | WD black SN750                            | WD in house                            | -------------------------------- |
+  | WD black SN750-SE                         | Phison E19T                            | PCIE 4.0, DRAMLESS+HMB           |
+  | WD Blue SN570                             | WD in house                            | DRAMLESS+HMB                     |
+  | WD black SN730                            | WD in house                            | SN750 FOR  OEM                   |
+  | Zadak Spark RGB                           | Phison E12                             | -------------------------------- |
  
 ## Tier A: High end NVME drives ESTIMATED PRICE RANGE: [$130-160 1TB] [$250-$300 2tb]
 
