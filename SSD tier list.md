@@ -40,7 +40,6 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
 
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | Acer                                      | -------------------------------------- | -------------------------------- |
   | Acer FA100                                | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
   | ADATA Swordfish                           | Realtek RTS5763DL	                     | DRAMLESS+HMB                     |
   | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
