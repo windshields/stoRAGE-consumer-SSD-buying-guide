@@ -42,6 +42,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | Acer FA100                                | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
   | ADATA Swordfish                           | Realtek RTS5763DL	                     | DRAMLESS+HMB                     |
+  | ADATA XPG SX6000 pro                      | Realtek RTS5763DL	                     | DRAMLESS+HMB                     |
   | Corsair MP400                             | Phison E12S                            | QLC NAND                         |
   | Crucial P1                                | Silicon Motion SM2263                  | QLC NAND                         |
   | Gigabyte NVME V2                          | Phison E13T                            | DRAMLESS+HMB,                    |
@@ -95,8 +96,8 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | Acer Predator GM3500                      | Silicon Motion SM2262EN                | -------------------------------- |
-  | ADATA/XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
-  | ADATA/XPG SX8600 PRO                      | Silicon Motion SM2262EN                | -------------------------------- |
+  | ADATA XPG SX8200 PRO                      | Silicon Motion SM2262                  | -------------------------------- |
+  | ADATA XPG SX8600 PRO                      | Silicon Motion SM2262EN                | -------------------------------- |
   | Addlink S70                               | Phison E12                             | -------------------------------- |
   | Corsair MP510                             | Phison E12                             | -------------------------------- |
   | Crucial P5                                | Micron in house                        | -------------------------------- |
@@ -136,9 +137,9 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
 TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant performance advantage over PCIE 3.0 drives in the same tier.
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
-  | ADATA/XPG Atom 50                         | Innogrit IG5220 RainierQX              | PCIE 4.0, DRAMLESS+HMB           |
-  | ADATA/XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
-  | ADATA/XPG Gammix S50                      | Phison E16                             | PCIE 4.0                         |
+  | ADATA XPG Atom 50                         | Innogrit IG5220 RainierQX              | PCIE 4.0, DRAMLESS+HMB           |
+  | ADATA XPG Gammix S50 lite                 | Silicon Motion SM2267                  | PCIE 4.0                         |
+  | ADATA XPG Gammix S50                      | Phison E16                             | PCIE 4.0                         |
   | Corsair MP600                             | Phison E16                             | PCIE 4.0                         |
   | Gigabyte Aorus Gen 4                      | Phison E16                             | PCIE 4.0                         |
   | Inland Performance                        | Phison E16                             | PCIE 4.0                         |  
@@ -158,7 +159,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | Name                                      | Controller                             | Notes                            |
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
  | Acer Predator GM7000                      | Innogrit Rainier IG5236                | PCIE 4.0                         |
- | ADATA/XPG Gammix S70/S70 blade            | Innogrit Rainier IG5236                | PCIE 4.0                         |
+ | ADATA XPG Gammix S70/S70 blade            | Innogrit Rainier IG5236                | PCIE 4.0                         |
  | Addlink S95                               | Phison E18                             | PCIE 4.0                         |
  | Corsair MP600 Pro                         | Phison E18                             | PCIE 4.0                         |
  | Corsair MP600 Pro XT                      | Phison E18                             | PCIE 4.0                         |
