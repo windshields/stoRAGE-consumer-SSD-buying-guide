@@ -159,7 +159,8 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | Name                                      | Controller                             | Notes                            |
  | ----------------------------------------- | -------------------------------------- | -------------------------------- |
  | Acer Predator GM7000                      | Innogrit Rainier IG5236                | PCIE 4.0                         |
- | ADATA XPG Gammix S70/S70 blade            | Innogrit Rainier IG5236                | PCIE 4.0                         |
+ | ADATA XPG Gammix S70                      | Innogrit Rainier IG5236                | PCIE 4.0                         |
+ | ADATA XPG Gammix S70 Blade                | Innogrit Rainier IG5236                | PCIE 4.0                         |
  | Addlink S95                               | Phison E18                             | PCIE 4.0                         |
  | Corsair MP600 Pro                         | Phison E18                             | PCIE 4.0                         |
  | Corsair MP600 Pro XT                      | Phison E18                             | PCIE 4.0                         |
