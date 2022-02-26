@@ -21,11 +21,9 @@
 8TB: https://pcpartpicker.com/user/forgetStyx/saved/#view=wVdpBm
 
 
-`THIS LIST IS DESIGNED FOR BASIC REFERENCE, ATTACHED ARE REPUTEABLE SSD REVIEW SOURCES` 
+`THIS LIST IS DESIGNED FOR BASIC REFERENCE, ATTACHED ARE RECOMMENDED CONSUMER SSD REVIEW SOURCES` 
 
 https://www.tomshardware.com/author/sean-webster
-
-https://www.storagereview.com/
 
 https://www.techpowerup.com/review/?category=SSD
 
