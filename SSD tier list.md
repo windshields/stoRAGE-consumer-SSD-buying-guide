@@ -50,7 +50,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | Intel 660P                                | Silicon Motion SM2263                  | QLC NAND                         |
   | Intel 670P                                | Silicon Motion SM2265                  | QLC NAND                         |
   | Kingston A2000                            | Silicon Motion SM2263                  | faster after firmware update, best in tier |
-  | Kioxa Exercia NVME                        | Phison E12C                            | -------------------------------- |
+  | Kioxa Exceria NVME                        | Phison E12C                            | -------------------------------- |
   | KLevv CRAS C710                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
   | Lexar NM610                               | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |
   | Mushkin Helix-L                           | Silicon Motion SM2263XT                | DRAMLESS+HMB                     |  
@@ -105,7 +105,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
   | Intel 760P                                | Silicon Motion SM2262                  | EOL                              |
   | Kingston KC2000                           | Silicon Motion SM2262EN                | -------------------------------- |
   | Kingston KC2500                           | Silicon Motion SM2262EN                | -------------------------------- |
-  | Kioxia Exercia Plus G2                    | Phison E12S                            | -------------------------------- |
+  | Kioxia Exceria Plus G2                    | Phison E12S                            | -------------------------------- |
   | Lexar NM620                               | Innogrit Shasta+ IG5216                | DRAMLESS+HMB                     |
   | MSI Spatium M390                          | Phison E15T                            | DRAMLESS+HMB                     |
   | Mushkin Pilot-E                           | Silicon Motion SM2262EN                | -------------------------------- |
