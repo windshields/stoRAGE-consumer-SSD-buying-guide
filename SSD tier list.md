@@ -171,6 +171,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | Kingston KC3000                           | Phison E18                             | PCIE 4.0                         |
  | Mushkin Gamma                             | Phison E18                             | PCIE 4.0                         |
  | Neo Forza NFP455                          | Innogrit Rainier IG5236                | PCIE 4.0                         |
+ | Plexor M10P                               | Innogrit Rainier IG5236                | PCIE 4.0                         |
  | Sabrent Rocket 4 Plus                     | Phison E18                             | PCIE 4.0                         |  
  | Samsung 980 Pro                           | Samsung Elpis                          | PCIE 4.0                         |
  | Samsung PM9A1                             | Samsung Elpis                          | PCIE 4.0, FOR OEM                |
