@@ -176,7 +176,7 @@ TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant pe
  | Samsung 980 Pro                           | Samsung Elpis                          | PCIE 4.0                         |
  | Samsung PM9A1                             | Samsung Elpis                          | PCIE 4.0, FOR OEM                |
  | Seagate FireCuda 530                      | Phison E18                             | PCIE 4.0                         |
- | SK Hynix P41 Platinum                     | SK Hynix Aries                         | -------------------------------- | 
+ | SK Hynix P41 Platinum                     | SK Hynix ACNS075 Aries                 | -------------------------------- | 
  | MSI Spatium M480                          | Phison E18                             | PCIE 4.0                         | 
  | Team Group T-Force Cardea A440            | Phison E18                             | PCIE 4.0                         |
  | Team Group T-Force Cardea A440 Pro        | Phison E18                             | PCIE 4.0                         |
