@@ -132,7 +132,7 @@ https://docs.google.com/spreadsheets/d/1B27_j9NDPU3cNlj2HKcrfpJKHkOf-Oi1DbuuQva2
 
 ### For high intensivity workstation/productivity applications, acceptable for HEDT/Pro-sumer applications. Also works as an excuse to spend money.
 
-TIER NOTE: Phison E16 based drives with PCIE 4.0 do not provide a significant performance advantage over PCIE 3.0 drives in the same tier.
+
   | Name                                      | Controller                             | Notes                            |
   | ----------------------------------------- | -------------------------------------- | -------------------------------- |
   | ADATA XPG Atom 50                         | Innogrit IG5220 RainierQX              | PCIE 4.0, DRAMLESS+HMB           |
